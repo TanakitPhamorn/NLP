@@ -1,0 +1,2448 @@
+Natural	ADJamodNOUN	language	0
+language	NOUNcompoundNOUN	processing	0
+language	NOUNinCOMPOUND	language processing	0
+processing	NOUNinCOMPOUND	language processing	0
+0	ABOUT	language processing	0
+one	NUMrev_nsubjNOUN	processing	0
+0	ABOUT	processing	0
+(	PUNCTpunctNOUN	nlp	0
+nlp	NOUNapposNOUN	processing	0
+)	PUNCTpunctNOUN	nlp	0
+be	AUXcopNUM	one	0
+one	NUM_PREDICATE_OF	0	0
+of	ADPcaseNOUN	technology	0
+the	DETdetNOUN	technology	0
+most	ADVadvmodADJ	important	0
+important	ADJamodNOUN	technology	0
+technology	NOUNnmodNUM	one	0
+to	PARTmarkVERB	arise	0
+arise	VERBaclNOUN	technology	0
+in	ADPcaseNOUN	year	0
+recent	ADJamodNOUN	year	0
+arise	VERBrev_oblNOUN	year	0
+0	ABOUT	year	0
+.	PUNCTpunctNUM	one	0
+specifically	ADVadvmodNOUN	year	1
+,	PUNCTpunctNOUN	year	1
+2019	NUMnsubjNOUN	year	1
+have	AUXauxNOUN	year	1
+be	AUXcopNOUN	year	1
+a	DETdetNOUN	year	1
+big	ADJamodNOUN	year	1
+year	NOUN_PREDICATE_OF	1	1
+for	ADPcaseNOUN	nlp	1
+nlp	NOUNnmodNOUN	year	1
+with	ADPcaseNOUN	introduction	1
+the	DETdetNOUN	introduction	1
+introduction	NOUNnmodNOUN	year	1
+of	ADPcaseNOUN	model	1
+the	DETdetNOUN	model	1
+revolutionary	ADJamodNOUN	model	1
+BERT	PROPNcompoundNOUN	model	1
+BERT	PROPNinCOMPOUND	BERT model	1
+model	NOUNinCOMPOUND	BERT model	1
+1	ABOUT	BERT model	1
+language	NOUNflatPROPN	BERT	1
+language	NOUNinCOMPOUND	language BERT	1
+BERT	PROPNinCOMPOUND	language BERT	1
+1	ABOUT	language BERT	1
+representation	NOUNcompoundNOUN	model	1
+representation	NOUNinCOMPOUND	representation model	1
+model	NOUNinCOMPOUND	representation model	1
+1	ABOUT	representation model	1
+model	NOUNnmodNOUN	introduction	1
+.	PUNCTpunctNOUN	year	1
+there	PRONexplVERB	be	2
+be	VERB_PREDICATE_OF	2	2
+a	DETdetNOUN	variety	2
+large	ADJamodNOUN	variety	2
+be	VERBrev_nsubjNOUN	variety	2
+2	ABOUT	variety	2
+of	ADPcaseNOUN	task	2
+underlying	ADJamodNOUN	task	2
+task	NOUNnmodNOUN	variety	2
+and	CCONJccNOUN	model	2
+machine	NOUNcompoundVERB	learn	2
+machine	NOUNinCOMPOUND	machine learn	2
+learn	VERBinCOMPOUND	machine learn	2
+2	ABOUT	machine learn	2
+learn	VERBamodNOUN	model	2
+model	NOUNconjNOUN	task	2
+power	VERBaclNOUN	model	2
+nlp	NOUNcompoundNOUN	application	2
+nlp	NOUNinCOMPOUND	nlp application	2
+application	NOUNinCOMPOUND	nlp application	2
+2	ABOUT	nlp application	2
+power	VERBrev_objNOUN	application	2
+2	ABOUT	application	2
+.	PUNCTpunctVERB	be	2
+recently	ADVadvmodVERB	obtain	3
+,	PUNCTpunctVERB	obtain	3
+deep	ADJamodNOUN	approach	3
+learning	NOUNcompoundNOUN	approach	3
+learning	NOUNinCOMPOUND	learning approach	3
+approach	NOUNinCOMPOUND	learning approach	3
+3	ABOUT	learning approach	3
+obtain	VERBrev_nsubjNOUN	approach	3
+3	ABOUT	approach	3
+have	AUXauxVERB	obtain	3
+obtain	VERB_PREDICATE_OF	3	3
+very	ADVadvmodADJ	high	3
+high	ADJamodNOUN	performance	3
+obtain	VERBrev_objNOUN	performance	3
+3	ABOUT	performance	3
+across	ADPcaseNOUN	task	3
+many	ADJamodNOUN	task	3
+different	ADJamodNOUN	task	3
+nlp	NOUNcompoundNOUN	task	3
+nlp	NOUNinCOMPOUND	nlp task	3
+task	NOUNinCOMPOUND	nlp task	3
+3	ABOUT	nlp task	3
+obtain	VERBrev_oblNOUN	task	3
+3	ABOUT	task	3
+.	PUNCTpunctVERB	obtain	3
+Convolutional	PROPNcompoundPROPN	Network	4
+Convolutional	PROPNinCOMPOUND	Convolutional Network	4
+Network	PROPNinCOMPOUND	Convolutional Network	4
+4	ABOUT	Convolutional Network	4
+Neural	PROPNcompoundPROPN	Network	4
+Neural	PROPNinCOMPOUND	Neural Network	4
+Network	PROPNinCOMPOUND	Neural Network	4
+4	ABOUT	Neural Network	4
+Network	PROPNnsubj:passVERB	associate	4
+(	PUNCTpunctPROPN	CNNs	4
+CNNs	PROPNapposPROPN	Network	4
+)	PUNCTpunctPROPN	CNNs	4
+be	AUXaux:passVERB	associate	4
+typically	ADVadvmodVERB	associate	4
+associate	VERB_PREDICATE_OF	4	4
+with	ADPcaseNOUN	vision	4
+computer	NOUNcompoundNOUN	vision	4
+computer	NOUNinCOMPOUND	computer vision	4
+vision	NOUNinCOMPOUND	computer vision	4
+4	ABOUT	computer vision	4
+associate	VERBrev_oblNOUN	vision	4
+4	ABOUT	vision	4
+,	PUNCTpunctVERB	apply	4
+but	CCONJccVERB	apply	4
+more	ADVadvmodADV	recently	4
+recently	ADVadvmodVERB	apply	4
+CNNs	PROPNnsubj:passVERB	apply	4
+have	AUXauxVERB	apply	4
+be	AUXaux:passVERB	apply	4
+apply	VERBconjVERB	associate	4
+to	ADPcaseNOUN	problem	4
+apply	VERBrev_oblNOUN	problem	4
+4	ABOUT	problem	4
+in	ADPcaseNOUN	nlp	4
+nlp	NOUNnmodNOUN	problem	4
+.	PUNCTpunctVERB	associate	4
+in	ADPcaseNOUN	addition	5
+be	VERBrev_oblNOUN	addition	5
+5	ABOUT	addition	5
+,	PUNCTpunctVERB	be	5
+there	PRONexplVERB	be	5
+be	VERB_PREDICATE_OF	5	5
+many	ADJamodNOUN	model	5
+other	ADJamodNOUN	model	5
+be	VERBrev_nsubjNOUN	model	5
+5	ABOUT	model	5
+be	AUXaux:passVERB	apply	5
+apply	VERBaclNOUN	model	5
+to	ADPcaseNOUN	nlp	5
+apply	VERBrev_oblNOUN	nlp	5
+5	ABOUT	nlp	5
+include	VERBcaseNOUN	word	5
+word	NOUNcompoundNOUN	representation	5
+word	NOUNinCOMPOUND	word representation	5
+representation	NOUNinCOMPOUND	word representation	5
+5	ABOUT	word representation	5
+vector	NOUNcompoundNOUN	representation	5
+vector	NOUNinCOMPOUND	vector representation	5
+representation	NOUNinCOMPOUND	vector representation	5
+5	ABOUT	vector representation	5
+representation	NOUNnmodNOUN	nlp	5
+,	PUNCTpunctNOUN	network	5
+window	NOUNcompoundVERB	base	5
+window	NOUNinCOMPOUND	window base	5
+base	VERBinCOMPOUND	window base	5
+5	ABOUT	window base	5
+-	PUNCTpunctVERB	base	5
+base	VERBamodNOUN	network	5
+neural	ADJamodNOUN	network	5
+network	NOUNconjNOUN	representation	5
+,	PUNCTpunctNOUN	network	5
+recurrent	ADJamodNOUN	network	5
+neural	ADJamodNOUN	network	5
+network	NOUNconjNOUN	representation	5
+,	PUNCTpunctNOUN	model	5
+long	ADJamodNOUN	model	5
+-	PUNCTpunctNOUN	model	5
+short	ADJamodNOUN	term	5
+-	PUNCTpunctNOUN	term	5
+term	NOUNcompoundNOUN	memory	5
+term	NOUNinCOMPOUND	term memory	5
+memory	NOUNinCOMPOUND	term memory	5
+5	ABOUT	term memory	5
+-	PUNCTpunctNOUN	memory	5
+memory	NOUNcompoundNOUN	model	5
+memory	NOUNinCOMPOUND	memory model	5
+model	NOUNinCOMPOUND	memory model	5
+5	ABOUT	memory model	5
+model	NOUNconjNOUN	representation	5
+,	PUNCTpunctNOUN	network	5
+recursive	ADJamodNOUN	network	5
+neural	ADJamodNOUN	network	5
+network	NOUNconjNOUN	representation	5
+,	PUNCTpunctNOUN	other	5
+and	CCONJccNOUN	other	5
+other	NOUNconjNOUN	representation	5
+.	PUNCTpunctVERB	be	5
+[	PUNCTpunctNOUN	article	6
+related	ADJamodNOUN	article	6
+article	NOUN_PREDICATE_OF	6	6
+:	PUNCTpunctNOUN	article	6
+the	DETdetPROPN	Research	6
+most	ADVadvmodPROPN	Influential	6
+Influential	PROPNcompoundPROPN	Research	6
+Influential	PROPNinCOMPOUND	Influential Research	6
+Research	PROPNinCOMPOUND	Influential Research	6
+6	ABOUT	Influential Research	6
+deep	PROPNcompoundPROPN	Learning	6
+deep	PROPNinCOMPOUND	deep Learning	6
+Learning	PROPNinCOMPOUND	deep Learning	6
+6	ABOUT	deep Learning	6
+Learning	PROPNcompoundPROPN	Research	6
+Learning	PROPNinCOMPOUND	Learning Research	6
+Research	PROPNinCOMPOUND	Learning Research	6
+6	ABOUT	Learning Research	6
+Research	PROPNapposNOUN	article	6
+of	ADPcaseNUM	2019	6
+2019	NUMnmodPROPN	Research	6
+]	PUNCTpunctNOUN	article	6
+in	ADPcaseNOUN	article	7
+this	DETdetNOUN	article	7
+help	VERBrev_oblNOUN	article	7
+7	ABOUT	article	7
+,	PUNCTpunctVERB	help	7
+I	PRONnsubjVERB	help	7
+will	AUXauxVERB	help	7
+help	VERB_PREDICATE_OF	7	7
+get	VERBxcompVERB	help	7
+you	PRONiobjVERB	get	7
+up	ADPcompound:prtVERB	get	7
+get	VERBrev_objNOUN	speed	7
+7	ABOUT	speed	7
+with	ADPcaseNOUN	effort	7
+current	ADJamodNOUN	effort	7
+nlp	NOUNcompoundNOUN	research	7
+nlp	NOUNinCOMPOUND	nlp research	7
+research	NOUNinCOMPOUND	nlp research	7
+7	ABOUT	nlp research	7
+research	NOUNcompoundNOUN	effort	7
+research	NOUNinCOMPOUND	research effort	7
+effort	NOUNinCOMPOUND	research effort	7
+7	ABOUT	research effort	7
+get	VERBrev_oblNOUN	effort	7
+7	ABOUT	effort	7
+by	SCONJmarkVERB	curate	7
+curate	VERBadvclVERB	get	7
+a	DETdetNOUN	list	7
+curate	VERBrev_objNOUN	list	7
+7	ABOUT	list	7
+of	ADPcaseNOUN	research	7
+the	DETdetNOUN	research	7
+best	ADJamodNOUN	research	7
+nlp	NOUNcompoundNOUN	research	7
+nlp	NOUNinCOMPOUND	nlp research	7
+research	NOUNinCOMPOUND	nlp research	7
+7	ABOUT	nlp research	7
+research	NOUNnmodNOUN	list	7
+of	ADPcaseNUM	2019	7
+2019	NUMnmodNOUN	research	7
+on	ADPcaseNOUN	arxiv.org	7
+arxiv.org	NOUNnmodNOUN	research	7
+down	ADVadvmodVERB	curate	7
+to	ADPcaseNOUN	list	7
+the	DETdetNOUN	list	7
+manageable	ADJamodNOUN	list	7
+short	ADJamodNOUN	list	7
+-	PUNCTpunctNOUN	list	7
+down	ADVrev_oblNOUN	list	7
+7	ABOUT	list	7
+of	ADPcaseNOUN	favorite	7
+my	PRONnmod:possNOUN	favorite	7
+favorite	NOUNnmodNOUN	list	7
+below	ADVadvmodNOUN	favorite	7
+.	PUNCTpunctVERB	help	7
+enjoy	VERB_PREDICATE_OF	8	8
+!	PUNCTpunctVERB	enjoy	8
+BERT	PROPN_PREDICATE_OF	9	9
+:	PUNCTpunctPROPN	BERT	9
+introduce	VERBrev_nsubjNOUN	pre-training	9
+9	ABOUT	pre-training	9
+of	ADPcaseNOUN	transformer	9
+deep	ADJamodNOUN	transformer	9
+bidirectional	ADJamodNOUN	transformer	9
+transformer	NOUNnmodNOUN	pre-training	9
+for	ADPcaseNOUN	understanding	9
+language	NOUNcompoundNOUN	understanding	9
+language	NOUNinCOMPOUND	language understanding	9
+understanding	NOUNinCOMPOUND	language understanding	9
+9	ABOUT	language understanding	9
+understanding	NOUNnmodNOUN	transformer	9
+Google	PROPNcompoundNOUN	researcher	9
+Google	PROPNinCOMPOUND	Google researcher	9
+researcher	NOUNinCOMPOUND	Google researcher	9
+9	ABOUT	Google researcher	9
+AI	PROPNcompoundNOUN	researcher	9
+AI	PROPNinCOMPOUND	AI researcher	9
+researcher	NOUNinCOMPOUND	AI researcher	9
+9	ABOUT	AI researcher	9
+language	NOUNcompoundNOUN	researcher	9
+language	NOUNinCOMPOUND	language researcher	9
+researcher	NOUNinCOMPOUND	language researcher	9
+9	ABOUT	language researcher	9
+introduce	VERBrev_nsubjNOUN	researcher	9
+9	ABOUT	researcher	9
+introduce	VERBparataxisPROPN	BERT	9
+a	DETdetNOUN	model	9
+new	ADJamodNOUN	model	9
+language	NOUNcompoundNOUN	representation	9
+language	NOUNinCOMPOUND	language representation	9
+representation	NOUNinCOMPOUND	language representation	9
+9	ABOUT	language representation	9
+representation	NOUNcompoundNOUN	model	9
+representation	NOUNinCOMPOUND	representation model	9
+model	NOUNinCOMPOUND	representation model	9
+9	ABOUT	representation model	9
+introduce	VERBrev_objNOUN	model	9
+9	ABOUT	model	9
+call	VERBaclNOUN	model	9
+BERT	PROPNxcompVERB	call	9
+,	PUNCTpunctPROPN	BERT	9
+which	PRONnsubjVERB	stand	9
+stand	VERBacl:relclNOUN	model	9
+for	ADPcaseNOUN	representation	9
+bidirectional	ADJamodNOUN	representation	9
+encoder	NOUNcompoundNOUN	representation	9
+encoder	NOUNinCOMPOUND	encoder representation	9
+representation	NOUNinCOMPOUND	encoder representation	9
+9	ABOUT	encoder representation	9
+stand	VERBrev_oblNOUN	representation	9
+9	ABOUT	representation	9
+from	ADPcaseNOUN	transformer	9
+transformer	NOUNnmodNOUN	representation	9
+.	PUNCTpunctPROPN	BERT	9
+unlike	ADPcaseNOUN	model	10
+recent	ADJamodNOUN	model	10
+language	NOUNcompoundNOUN	representation	10
+language	NOUNinCOMPOUND	language representation	10
+representation	NOUNinCOMPOUND	language representation	10
+10	ABOUT	language representation	10
+representation	NOUNcompoundNOUN	model	10
+representation	NOUNinCOMPOUND	representation model	10
+model	NOUNinCOMPOUND	representation model	10
+10	ABOUT	representation model	10
+design	VERBrev_oblNOUN	model	10
+10	ABOUT	model	10
+,	PUNCTpunctVERB	design	10
+BERT	PROPNnsubj:passVERB	design	10
+be	AUXaux:passVERB	design	10
+design	VERB_PREDICATE_OF	10	10
+to	PARTmarkVERB	pre-train	10
+pre-train	VERBxcompVERB	design	10
+deep	ADJamodNOUN	representation	10
+bidirectional	ADJamodNOUN	representation	10
+pre-train	VERBrev_objNOUN	representation	10
+10	ABOUT	representation	10
+from	ADPcaseNOUN	text	10
+unlabel	VERBamodNOUN	text	10
+text	NOUNnmodNOUN	representation	10
+by	SCONJmarkNOUN	conditioning	10
+jointly	ADVadvmodNOUN	conditioning	10
+conditioning	NOUNadvclVERB	pre-train	10
+on	ADPcaseNOUN	context	10
+both	DETdetNOUN	context	10
+left	ADJamodNOUN	context	10
+and	CCONJccADJ	right	10
+right	ADJconjADJ	left	10
+context	NOUNnmodNOUN	conditioning	10
+in	ADPcaseNOUN	layer	10
+all	DETdetNOUN	layer	10
+layer	NOUNnmodNOUN	context	10
+.	PUNCTpunctVERB	design	10
+as	ADPcaseNOUN	result	11
+a	DETdetNOUN	result	11
+tune	VERBrev_oblNOUN	result	11
+11	ABOUT	result	11
+,	PUNCTpunctVERB	tune	11
+the	DETdetPROPN	BERT	11
+pre-trained	ADJamodPROPN	BERT	11
+BERT	PROPNnsubj:passVERB	tune	11
+model	NOUNflatPROPN	BERT	11
+model	NOUNinCOMPOUND	model BERT	11
+BERT	PROPNinCOMPOUND	model BERT	11
+11	ABOUT	model BERT	11
+can	AUXauxVERB	tune	11
+be	AUXaux:passVERB	tune	11
+fine	ADJadvmodVERB	tune	11
+-	PUNCTpunctVERB	tune	11
+tune	VERB_PREDICATE_OF	11	11
+with	ADPcaseNOUN	layer	11
+just	ADVadvmodNOUN	layer	11
+one	NUMnummodNOUN	layer	11
+additional	ADJamodNOUN	layer	11
+output	NOUNcompoundNOUN	layer	11
+output	NOUNinCOMPOUND	output layer	11
+layer	NOUNinCOMPOUND	output layer	11
+11	ABOUT	output layer	11
+tune	VERBrev_oblNOUN	layer	11
+11	ABOUT	layer	11
+to	PARTmarkVERB	create	11
+create	VERBaclNOUN	layer	11
+state	NOUNcompoundNOUN	model	11
+state	NOUNinCOMPOUND	state model	11
+model	NOUNinCOMPOUND	state model	11
+11	ABOUT	state model	11
+-	PUNCTpunctNOUN	state	11
+of	ADPcaseNOUN	art	11
+-	PUNCTpunctNOUN	art	11
+the	DETdetNOUN	art	11
+-	PUNCTpunctNOUN	art	11
+art	NOUNnmodNOUN	state	11
+create	VERBrev_objNOUN	model	11
+11	ABOUT	model	11
+for	ADPcaseNOUN	range	11
+a	DETdetNOUN	range	11
+wide	ADJamodNOUN	range	11
+create	VERBrev_oblNOUN	range	11
+11	ABOUT	range	11
+of	ADPcaseNOUN	task	11
+task	NOUNnmodNOUN	range	11
+,	PUNCTpunctNOUN	range	11
+such	ADJcaseNOUN	answer	11
+as	ADPfixedADJ	such	11
+question	NOUNcompoundNOUN	answer	11
+question	NOUNinCOMPOUND	question answer	11
+answer	NOUNinCOMPOUND	question answer	11
+11	ABOUT	question answer	11
+answer	NOUNnmodNOUN	range	11
+and	CCONJccNOUN	inference	11
+language	NOUNcompoundNOUN	inference	11
+language	NOUNinCOMPOUND	language inference	11
+inference	NOUNinCOMPOUND	language inference	11
+11	ABOUT	language inference	11
+inference	NOUNconjNOUN	answer	11
+,	PUNCTpunctNOUN	range	11
+without	ADPcaseNOUN	modification	11
+substantial	ADJamodNOUN	modification	11
+specific	ADJrev_obl:npmodNOUN	task	11
+11	ABOUT	task	11
+-	PUNCTpunctADJ	specific	11
+specific	ADJamodNOUN	modification	11
+architecture	NOUNcompoundNOUN	modification	11
+architecture	NOUNinCOMPOUND	architecture modification	11
+modification	NOUNinCOMPOUND	architecture modification	11
+11	ABOUT	architecture modification	11
+modification	NOUNnmodNOUN	range	11
+.	PUNCTpunctVERB	tune	11
+BERT	PROPNnsubjADJ	simple	12
+be	AUXcopADJ	simple	12
+conceptually	ADVadvmodADJ	simple	12
+simple	ADJ_PREDICATE_OF	12	12
+and	CCONJccADJ	powerful	12
+empirically	ADVadvmodADJ	powerful	12
+powerful	ADJconjADJ	simple	12
+.	PUNCTpunctADJ	simple	12
+the	DETdetNOUN	state	13
+repository	NOUNrev_nsubjNOUN	state	13
+13	ABOUT	state	13
+of	ADPcaseNOUN	literature	13
+nlp	NOUNcompoundNOUN	literature	13
+nlp	NOUNinCOMPOUND	nlp literature	13
+literature	NOUNinCOMPOUND	nlp literature	13
+13	ABOUT	nlp literature	13
+repository	NOUNrev_nsubjNOUN	literature	13
+13	ABOUT	literature	13
+:	PUNCTpunctNOUN	repository	13
+a	DETdetNOUN	Analysis	13
+diachronic	ADJamodNOUN	Analysis	13
+repository	NOUNrev_nsubjNOUN	Analysis	13
+13	ABOUT	Analysis	13
+of	ADPcasePROPN	Anthology	13
+the	DETdetPROPN	Anthology	13
+ACL	PROPNcompoundPROPN	Anthology	13
+ACL	PROPNinCOMPOUND	ACL Anthology	13
+Anthology	PROPNinCOMPOUND	ACL Anthology	13
+13	ABOUT	ACL Anthology	13
+Anthology	PROPNnmodNOUN	Analysis	13
+the	DETdetPROPN	Anthology	13
+ACL	PROPNcompoundPROPN	Anthology	13
+ACL	PROPNinCOMPOUND	ACL Anthology	13
+Anthology	PROPNinCOMPOUND	ACL Anthology	13
+13	ABOUT	ACL Anthology	13
+Anthology	PROPNapposNOUN	Analysis	13
+(	PUNCTpunctNOUN	aa	13
+aa	NOUNapposPROPN	Anthology	13
+)	PUNCTpunctNOUN	aa	13
+be	AUXcopNOUN	repository	13
+a	DETdetNOUN	repository	13
+digital	ADJamodNOUN	repository	13
+repository	NOUN_PREDICATE_OF	13	13
+of	ADPcaseNOUN	ten	13
+ten	NOUNnmodNOUN	repository	13
+of	ADPcaseNOUN	thousand	13
+thousand	NOUNnmodNOUN	ten	13
+of	ADPcaseNOUN	article	13
+article	NOUNnmodNOUN	thousand	13
+on	ADPcaseNOUN	processing	13
+Natural	ADJamodNOUN	language	13
+language	NOUNcompoundNOUN	processing	13
+language	NOUNinCOMPOUND	language processing	13
+processing	NOUNinCOMPOUND	language processing	13
+13	ABOUT	language processing	13
+processing	NOUNnmodNOUN	article	13
+(	PUNCTpunctNOUN	nlp	13
+nlp	NOUNapposNOUN	processing	13
+)	PUNCTpunctNOUN	nlp	13
+.	PUNCTpunctNOUN	repository	13
+this	DETdetNOUN	paper	14
+examine	VERBrev_nsubjNOUN	paper	14
+14	ABOUT	paper	14
+examine	VERB_PREDICATE_OF	14	14
+the	DETdetNOUN	literature	14
+examine	VERBrev_objNOUN	literature	14
+14	ABOUT	literature	14
+as	ADPcaseADJ	whole	14
+a	DETdetADJ	whole	14
+whole	ADJoblVERB	examine	14
+to	PARTmarkVERB	identify	14
+identify	VERBadvclVERB	examine	14
+broad	ADJamodNOUN	trend	14
+identify	VERBrev_objNOUN	trend	14
+14	ABOUT	trend	14
+in	ADPcaseNOUN	productivity	14
+productivity	NOUNnmodNOUN	trend	14
+,	PUNCTpunctNOUN	focus	14
+focus	NOUNconjNOUN	productivity	14
+,	PUNCTpunctNOUN	impact	14
+and	CCONJccNOUN	impact	14
+impact	NOUNconjNOUN	productivity	14
+.	PUNCTpunctVERB	examine	14
+it	PRONnsubjVERB	present	15
+present	VERB_PREDICATE_OF	15	15
+the	DETdetNOUN	analysis	15
+present	VERBrev_objNOUN	analysis	15
+15	ABOUT	analysis	15
+in	ADPcaseNOUN	sequence	15
+a	DETdetNOUN	sequence	15
+sequence	NOUNnmodNOUN	analysis	15
+of	ADPcaseNOUN	question	15
+question	NOUNnmodNOUN	sequence	15
+and	CCONJccNOUN	answer	15
+answer	NOUNconjNOUN	question	15
+.	PUNCTpunctVERB	present	15
+the	DETdetNOUN	goal	16
+be	VERBrev_nsubjNOUN	goal	16
+16	ABOUT	goal	16
+be	VERB_PREDICATE_OF	16	16
+to	PARTmarkVERB	record	16
+record	VERBccompVERB	be	16
+the	DETdetNOUN	state	16
+record	VERBrev_objNOUN	state	16
+16	ABOUT	state	16
+of	ADPcaseNOUN	literature	16
+the	DETdetNOUN	literature	16
+aa	NOUNcompoundNOUN	literature	16
+aa	NOUNinCOMPOUND	aa literature	16
+literature	NOUNinCOMPOUND	aa literature	16
+16	ABOUT	aa literature	16
+literature	NOUNnmodNOUN	state	16
+:	PUNCTpunctNOUN	state	16
+(	PUNCTpunctPRON	i	16
+i	PRONapposNOUN	literature	16
+)	PUNCTpunctPRON	i	16
+who	PRONobjVERB	publish	16
+and	CCONJccVERB	publish	16
+how	ADVadvmodADJ	many	16
+many	ADJnsubjVERB	publish	16
+of	ADPcasePRON	we	16
+we	PRONnmodADJ	many	16
+be	AUXauxVERB	publish	16
+publish	VERBacl:relclNOUN	literature	16
+?	PUNCTpunctVERB	be	16
+(	PUNCTpunctX	ii	17
+ii	XnummodVERB	publish	17
+)	PUNCTpunctX	ii	17
+what	PRONoblVERB	publish	17
+be	AUXauxVERB	publish	17
+we	PRONnsubjVERB	publish	17
+publish	VERB_PREDICATE_OF	17	17
+on	ADPcasePRON	what	17
+?	PUNCTpunctVERB	publish	17
+(	PUNCTpunctX	iii	18
+iii	XnummodVERB	publish	18
+)	PUNCTpunctX	iii	18
+where	ADVadvmodVERB	publish	18
+and	CCONJccVERB	publish	18
+in	SCONJconjADV	where	18
+what	DETdetNOUN	form	18
+form	NOUNconjADV	where	18
+be	AUXauxVERB	publish	18
+we	PRONnsubjVERB	publish	18
+publish	VERB_PREDICATE_OF	18	18
+?	PUNCTpunctVERB	publish	18
+and	CCONJccPRON	what	19
+(	PUNCTpunctX	iv	19
+iv	XnummodPRON	what	19
+)	PUNCTpunctX	iv	19
+what	PRON_PREDICATE_OF	19	19
+be	AUXcopPRON	what	19
+the	DETdetNOUN	impact	19
+what	PRONrev_nsubjNOUN	impact	19
+19	ABOUT	impact	19
+of	ADPcaseNOUN	publication	19
+we	PRONnmod:possNOUN	publication	19
+publication	NOUNnmodNOUN	impact	19
+?	PUNCTpunctPRON	what	19
+the	DETdetNOUN	answer	20
+form	NOUNrev_nsubjNOUN	answer	20
+20	ABOUT	answer	20
+be	AUXcopNOUN	form	20
+usually	ADVadvmodNOUN	form	20
+in	ADPcaseNOUN	form	20
+the	DETdetNOUN	form	20
+form	NOUN_PREDICATE_OF	20	20
+of	ADPcaseNOUN	number	20
+number	NOUNnmodNOUN	form	20
+,	PUNCTpunctNOUN	graph	20
+graph	NOUNconjNOUN	number	20
+,	PUNCTpunctNOUN	visualization	20
+and	CCONJccNOUN	visualization	20
+inter-connected	ADJamodNOUN	visualization	20
+visualization	NOUNconjNOUN	number	20
+.	PUNCTpunctNOUN	form	20
+special	ADJamodNOUN	emphasis	21
+lay	VERBrev_nsubj:passNOUN	emphasis	21
+21	ABOUT	emphasis	21
+be	AUXaux:passVERB	lay	21
+lay	VERB_PREDICATE_OF	21	21
+on	ADPcaseNOUN	demographic	21
+the	DETdetNOUN	demographic	21
+lay	VERBrev_oblNOUN	demographic	21
+21	ABOUT	demographic	21
+and	CCONJccNOUN	inclusiveness	21
+inclusiveness	NOUNconjNOUN	demographic	21
+of	ADPcaseNOUN	publishing	21
+nlp	NOUNcompoundNOUN	publishing	21
+nlp	NOUNinCOMPOUND	nlp publishing	21
+publishing	NOUNinCOMPOUND	nlp publishing	21
+21	ABOUT	nlp publishing	21
+publishing	NOUNnmodNOUN	demographic	21
+.	PUNCTpunctVERB	lay	21
+eraser	NOUN_PREDICATE_OF	22	22
+:	PUNCTpunctNOUN	eraser	22
+a	DETdetNOUN	benchmark	22
+base	VERBrev_nsubj:passNOUN	benchmark	22
+22	ABOUT	benchmark	22
+to	PARTmarkVERB	evaluate	22
+evaluate	VERBaclNOUN	benchmark	22
+rationalize	VERBamodNOUN	model	22
+NLP	PROPNcompoundNOUN	model	22
+NLP	PROPNinCOMPOUND	NLP model	22
+model	NOUNinCOMPOUND	NLP model	22
+22	ABOUT	NLP model	22
+model	NOUNcompoundNOUN	model	22
+model	NOUNinCOMPOUND	model model	22
+model	NOUNinCOMPOUND	model model	22
+22	ABOUT	model model	22
+state	NOUNcompoundNOUN	model	22
+state	NOUNinCOMPOUND	state model	22
+model	NOUNinCOMPOUND	state model	22
+22	ABOUT	state model	22
+-	PUNCTpunctNOUN	state	22
+of	ADPcaseNOUN	art	22
+-	PUNCTpunctNOUN	art	22
+the	DETdetNOUN	art	22
+-	PUNCTpunctNOUN	art	22
+art	NOUNnmodNOUN	state	22
+evaluate	VERBrev_objNOUN	model	22
+22	ABOUT	model	22
+in	ADPcaseNOUN	nlp	22
+nlp	NOUNnmodNOUN	model	22
+be	AUXaux:passVERB	base	22
+now	ADVadvmodVERB	base	22
+predominantly	ADVadvmodVERB	base	22
+base	VERBapposNOUN	eraser	22
+on	ADPcaseNOUN	network	22
+deep	ADJamodNOUN	network	22
+neural	ADJamodNOUN	network	22
+base	VERBrev_oblNOUN	network	22
+22	ABOUT	network	22
+that	PRONnsubjADJ	opaque	22
+be	AUXcopADJ	opaque	22
+generally	ADVadvmodADJ	opaque	22
+opaque	ADJacl:relclNOUN	network	22
+in	ADPcaseNOUN	term	22
+opaque	ADJrev_oblNOUN	term	22
+22	ABOUT	term	22
+of	SCONJmarkVERB	come	22
+how	ADVadvmodVERB	come	22
+they	PRONnsubjVERB	come	22
+come	VERBaclNOUN	term	22
+to	ADPcaseNOUN	prediction	22
+specific	ADJamodNOUN	prediction	22
+come	VERBrev_oblNOUN	prediction	22
+22	ABOUT	prediction	22
+.	PUNCTpunctNOUN	eraser	22
+this	DETdetNOUN	limitation	23
+lead	VERBrev_nsubjNOUN	limitation	23
+23	ABOUT	limitation	23
+have	AUXauxVERB	lead	23
+lead	VERB_PREDICATE_OF	23	23
+to	ADPcaseNOUN	interest	23
+increase	VERBamodNOUN	interest	23
+lead	VERBrev_oblNOUN	interest	23
+23	ABOUT	interest	23
+in	SCONJmarkVERB	design	23
+design	VERBaclNOUN	interest	23
+more	ADVadvmodADJ	interpretable	23
+interpretable	ADJamodNOUN	model	23
+deep	ADJamodNOUN	model	23
+design	VERBrev_objNOUN	model	23
+23	ABOUT	model	23
+for	ADPcaseNOUN	nlp	23
+nlp	NOUNnmodNOUN	model	23
+that	PRONnsubjVERB	reveal	23
+can	AUXauxVERB	reveal	23
+reveal	VERBacl:relclNOUN	nlp	23
+the	DETdetNOUN	reasoning	23
+`	PUNCTpunctNOUN	reasoning	23
+reveal	VERBrev_objNOUN	reasoning	23
+23	ABOUT	reasoning	23
+'	PUNCTpunctNOUN	reasoning	23
+underlying	ADJamodNOUN	output	23
+model	NOUNcompoundNOUN	output	23
+model	NOUNinCOMPOUND	model output	23
+output	NOUNinCOMPOUND	model output	23
+23	ABOUT	model output	23
+reveal	VERBrev_objNOUN	output	23
+23	ABOUT	output	23
+.	PUNCTpunctVERB	lead	23
+but	CCONJccVERB	conduct	24
+conduct	VERBrev_nsubj:passNOUN	work	24
+24	ABOUT	work	24
+in	ADPcaseNOUN	direction	24
+this	DETdetNOUN	direction	24
+direction	NOUNnmodNOUN	work	24
+have	AUXauxVERB	conduct	24
+be	AUXaux:passVERB	conduct	24
+conduct	VERB_PREDICATE_OF	24	24
+on	ADPcaseNOUN	dataset	24
+different	ADJamodNOUN	dataset	24
+conduct	VERBrev_oblNOUN	dataset	24
+24	ABOUT	dataset	24
+and	CCONJccNOUN	task	24
+task	NOUNconjNOUN	dataset	24
+with	ADPcaseNOUN	aim	24
+correspondingly	ADVadvmodADJ	unique	24
+unique	ADJamodNOUN	aim	24
+aim	NOUNnmodNOUN	dataset	24
+and	CCONJccNOUN	metric	24
+metric	NOUNconjNOUN	aim	24
+;	PUNCTpunctVERB	conduct	24
+this	PRONnsubjVERB	make	24
+make	VERBparataxisVERB	conduct	24
+it	PRONobjVERB	make	24
+difficult	ADJxcompVERB	make	24
+to	PARTmarkVERB	track	24
+track	VERBadvclADJ	difficult	24
+track	VERBrev_objNOUN	progress	24
+24	ABOUT	progress	24
+.	PUNCTpunctVERB	conduct	24
+this	DETdetNOUN	paper	25
+propose	VERBrev_nsubjNOUN	paper	25
+25	ABOUT	paper	25
+propose	VERB_PREDICATE_OF	25	25
+the	DETdetNOUN	rationale	25
+evaluate	VERBamodNOUN	rationale	25
+propose	VERBrev_objNOUN	rationale	25
+25	ABOUT	rationale	25
+and	CCONJccNOUN	reasoning	25
+simple	ADJamodNOUN	reasoning	25
+English	PROPNcompoundNOUN	reasoning	25
+English	PROPNinCOMPOUND	English reasoning	25
+reasoning	NOUNinCOMPOUND	English reasoning	25
+25	ABOUT	English reasoning	25
+reasoning	NOUNconjNOUN	rationale	25
+(	PUNCTpunctNOUN	eraser	25
+eraser	NOUNapposNOUN	reasoning	25
+)	PUNCTpunctNOUN	eraser	25
+benchmark	NOUNconjNOUN	rationale	25
+to	ADPcaseNOUN	research	25
+advance	NOUNcompoundNOUN	research	25
+advance	NOUNinCOMPOUND	advance research	25
+research	NOUNinCOMPOUND	advance research	25
+25	ABOUT	advance research	25
+research	NOUNnmodNOUN	benchmark	25
+on	ADPcaseNOUN	model	25
+interpretable	ADJamodNOUN	model	25
+model	NOUNnmodNOUN	research	25
+in	ADPcaseNOUN	nlp	25
+nlp	NOUNnmodNOUN	model	25
+.	PUNCTpunctVERB	propose	25
+this	DETdetNOUN	benchmark	26
+comprise	VERBrev_nsubjNOUN	benchmark	26
+26	ABOUT	benchmark	26
+comprise	VERB_PREDICATE_OF	26	26
+multiple	ADJamodNOUN	dataset	26
+comprise	VERBrev_objNOUN	dataset	26
+26	ABOUT	dataset	26
+and	CCONJccNOUN	task	26
+task	NOUNconjNOUN	dataset	26
+for	ADPcasePRON	which	26
+which	PRONoblVERB	collect	26
+human	ADJamodNOUN	annotation	26
+collect	VERBrev_nsubj:passNOUN	annotation	26
+26	ABOUT	annotation	26
+of	ADPcaseNOUN	rationale	26
+""""	PUNCTpunctNOUN	rationale	26
+rationale	NOUNnmodNOUN	annotation	26
+""""	PUNCTpunctNOUN	rationale	26
+(	PUNCTpunctVERB	support	26
+support	VERBaclNOUN	rationale	26
+support	VERBrev_objNOUN	evidence	26
+26	ABOUT	evidence	26
+)	PUNCTpunctVERB	support	26
+have	AUXauxVERB	collect	26
+be	AUXaux:passVERB	collect	26
+collect	VERBadvclVERB	comprise	26
+.	PUNCTpunctVERB	comprise	26
+the	DETdetNOUN	researcher	27
+propose	VERBrev_nsubjNOUN	researcher	27
+27	ABOUT	researcher	27
+propose	VERB_PREDICATE_OF	27	27
+several	ADJamodNOUN	metric	27
+propose	VERBrev_objNOUN	metric	27
+27	ABOUT	metric	27
+that	PRONnsubjVERB	aim	27
+aim	VERBacl:relclNOUN	metric	27
+to	PARTmarkVERB	capture	27
+capture	VERBxcompVERB	aim	27
+how	ADVadvmodADV	well	27
+well	ADVadvmodVERB	provide	27
+the	DETdetNOUN	rationale	27
+align	VERBrev_nsubjNOUN	rationale	27
+27	ABOUT	rationale	27
+provide	VERBaclNOUN	rationale	27
+by	ADPcaseNOUN	model	27
+provide	VERBrev_oblNOUN	model	27
+27	ABOUT	model	27
+align	VERBccompVERB	capture	27
+with	ADPcaseNOUN	rationale	27
+human	ADJamodNOUN	rationale	27
+align	VERBrev_oblNOUN	rationale	27
+27	ABOUT	rationale	27
+,	PUNCTpunctADJ	faithful	27
+and	CCONJccADJ	faithful	27
+also	ADVadvmodADJ	faithful	27
+how	ADVadvmodADJ	faithful	27
+faithful	ADJconjVERB	align	27
+these	DETdetNOUN	rationale	27
+faithful	ADJrev_nsubjNOUN	rationale	27
+27	ABOUT	rationale	27
+be	AUXcopADJ	faithful	27
+(	PUNCTpunctNOUN	degree	27
+i.e.	XadvmodNOUN	degree	27
+,	PUNCTpunctNOUN	degree	27
+the	DETdetNOUN	degree	27
+degree	NOUNconjADJ	faithful	27
+to	ADPcasePRON	which	27
+which	PRONoblVERB	provide	27
+provide	VERBacl:relclNOUN	degree	27
+provide	VERBrev_objNOUN	rationale	27
+27	ABOUT	rationale	27
+influence	VERBaclNOUN	rationale	27
+the	DETdetNOUN	prediction	27
+correspond	VERBamodNOUN	prediction	27
+influence	VERBrev_objNOUN	prediction	27
+27	ABOUT	prediction	27
+)	PUNCTpunctNOUN	degree	27
+.	PUNCTpunctVERB	propose	27
+the	DETdetNOUN	hope	28
+be	VERBrev_nsubjNOUN	hope	28
+28	ABOUT	hope	28
+be	VERB_PREDICATE_OF	28	28
+that	SCONJmarkVERB	facilitate	28
+release	VERBcsubjVERB	facilitate	28
+this	DETdetNOUN	benchmark	28
+release	VERBrev_objNOUN	benchmark	28
+28	ABOUT	benchmark	28
+facilitate	VERBccompVERB	be	28
+facilitate	VERBrev_objNOUN	progress	28
+28	ABOUT	progress	28
+on	SCONJmarkVERB	design	28
+design	VERBaclNOUN	progress	28
+more	ADVadvmodADJ	interpretable	28
+interpretable	ADJamodNOUN	system	28
+nlp	NOUNcompoundNOUN	system	28
+nlp	NOUNinCOMPOUND	nlp system	28
+system	NOUNinCOMPOUND	nlp system	28
+28	ABOUT	nlp system	28
+design	VERBrev_objNOUN	system	28
+28	ABOUT	system	28
+.	PUNCTpunctVERB	be	28
+the	DETdetNOUN	benchmark	29
+available	ADJrev_nsubjNOUN	benchmark	29
+29	ABOUT	benchmark	29
+,	PUNCTpunctNOUN	code	29
+code	NOUNconjNOUN	benchmark	29
+,	PUNCTpunctNOUN	documentation	29
+and	CCONJccNOUN	documentation	29
+documentation	NOUNconjNOUN	benchmark	29
+be	AUXcopADJ	available	29
+available	ADJ_PREDICATE_OF	29	29
+here	ADVadvmodADJ	available	29
+.	PUNCTpunctADJ	available	29
+Allen	PROPN_PREDICATE_OF	30	30
+NLP	PROPNflatPROPN	Allen	30
+NLP	PROPNinCOMPOUND	NLP Allen	30
+Allen	PROPNinCOMPOUND	NLP Allen	30
+30	ABOUT	NLP Allen	30
+interpret	VERB_PREDICATE_OF	31	31
+:	PUNCTpunctVERB	interpret	31
+a	DETdetNOUN	Framework	31
+interpret	VERBrev_objNOUN	Framework	31
+31	ABOUT	Framework	31
+for	SCONJmarkVERB	explain	31
+explain	VERBaclNOUN	Framework	31
+explain	VERBrev_objNOUN	prediction	31
+31	ABOUT	prediction	31
+of	ADPcaseNOUN	model	31
+nlp	NOUNcompoundNOUN	model	31
+nlp	NOUNinCOMPOUND	nlp model	31
+model	NOUNinCOMPOUND	nlp model	31
+31	ABOUT	nlp model	31
+model	NOUNnmodNOUN	prediction	31
+neural	ADJamodNOUN	model	31
+nlp	NOUNcompoundNOUN	model	31
+nlp	NOUNinCOMPOUND	nlp model	31
+model	NOUNinCOMPOUND	nlp model	31
+31	ABOUT	nlp model	31
+model	NOUNnmodNOUN	prediction	31
+be	AUXcopADJ	accurate	31
+increasingly	ADVadvmodADJ	accurate	31
+accurate	ADJccompVERB	interpret	31
+but	CCONJccADJ	imperfect	31
+be	AUXcopADJ	imperfect	31
+imperfect	ADJconjADJ	accurate	31
+and	CCONJccADJ	opaque	31
+opaque	ADJconjADJ	imperfect	31
+-	PUNCTpunctVERB	interpret	31
+they	PRONnsubjVERB	break	31
+break	VERBparataxisVERB	interpret	31
+in	ADPcaseNOUN	way	31
+counterintuitive	ADJamodNOUN	way	31
+break	VERBrev_oblNOUN	way	31
+31	ABOUT	way	31
+and	CCONJccVERB	leave	31
+leave	VERBconjVERB	break	31
+end	NOUNcompoundNOUN	user	31
+end	NOUNinCOMPOUND	end user	31
+user	NOUNinCOMPOUND	end user	31
+31	ABOUT	end user	31
+leave	VERBrev_objNOUN	user	31
+31	ABOUT	user	31
+puzzle	VERBaclNOUN	user	31
+at	ADPcaseNOUN	behavior	31
+they	PRONnmod:possNOUN	behavior	31
+puzzle	VERBrev_oblNOUN	behavior	31
+31	ABOUT	behavior	31
+.	PUNCTpunctVERB	interpret	31
+model	NOUNcompoundNOUN	interpretation	32
+model	NOUNinCOMPOUND	model interpretation	32
+interpretation	NOUNinCOMPOUND	model interpretation	32
+32	ABOUT	model interpretation	32
+interpretation	NOUNcompoundNOUN	method	32
+interpretation	NOUNinCOMPOUND	interpretation method	32
+method	NOUNinCOMPOUND	interpretation method	32
+32	ABOUT	interpretation method	32
+ameliorate	VERBrev_nsubjNOUN	method	32
+32	ABOUT	method	32
+ameliorate	VERB_PREDICATE_OF	32	32
+this	DETdetNOUN	opacity	32
+ameliorate	VERBrev_objNOUN	opacity	32
+32	ABOUT	opacity	32
+by	SCONJmarkVERB	provide	32
+provide	VERBadvclVERB	ameliorate	32
+provide	VERBrev_objNOUN	explanation	32
+32	ABOUT	explanation	32
+for	ADPcaseNOUN	prediction	32
+specific	ADJamodNOUN	prediction	32
+model	NOUNcompoundNOUN	prediction	32
+model	NOUNinCOMPOUND	model prediction	32
+prediction	NOUNinCOMPOUND	model prediction	32
+32	ABOUT	model prediction	32
+prediction	NOUNnmodNOUN	explanation	32
+.	PUNCTpunctVERB	ameliorate	32
+unfortunately	ADVadvmodVERB	make	33
+,	PUNCTpunctVERB	make	33
+exist	VERBamodNOUN	codebase	33
+interpretation	NOUNcompoundNOUN	codebase	33
+interpretation	NOUNinCOMPOUND	interpretation codebase	33
+codebase	NOUNinCOMPOUND	interpretation codebase	33
+33	ABOUT	interpretation codebase	33
+make	VERBrev_nsubjNOUN	codebase	33
+33	ABOUT	codebase	33
+make	VERB_PREDICATE_OF	33	33
+it	PRONobjVERB	make	33
+difficult	ADJxcompVERB	make	33
+to	PARTmarkVERB	apply	33
+apply	VERBxcompADJ	difficult	33
+these	DETdetNOUN	method	33
+apply	VERBrev_objNOUN	method	33
+33	ABOUT	method	33
+to	ADPcaseNOUN	model	33
+new	ADJamodNOUN	model	33
+apply	VERBrev_oblNOUN	model	33
+33	ABOUT	model	33
+and	CCONJccNOUN	task	33
+task	NOUNconjNOUN	model	33
+,	PUNCTpunctNOUN	model	33
+which	PRONnsubjVERB	hinder	33
+hinder	VERBacl:relclNOUN	model	33
+hinder	VERBrev_objNOUN	adoption	33
+33	ABOUT	adoption	33
+for	ADPcaseNOUN	practitioner	33
+practitioner	NOUNnmodNOUN	adoption	33
+and	CCONJccNOUN	burden	33
+burden	NOUNconjNOUN	practitioner	33
+interpretability	NOUNcompoundNOUN	researcher	33
+interpretability	NOUNinCOMPOUND	interpretability researcher	33
+researcher	NOUNinCOMPOUND	interpretability researcher	33
+33	ABOUT	interpretability researcher	33
+researcher	NOUNconjNOUN	practitioner	33
+.	PUNCTpunctVERB	make	33
+this	DETdetNOUN	paper	34
+introduce	VERBrev_nsubjNOUN	paper	34
+34	ABOUT	paper	34
+introduce	VERB_PREDICATE_OF	34	34
+Allen	PROPNobjVERB	introduce	34
+NLP	PROPNflatPROPN	Allen	34
+NLP	PROPNinCOMPOUND	NLP Allen	34
+Allen	PROPNinCOMPOUND	NLP Allen	34
+34	ABOUT	NLP Allen	34
+interpret	VERBxcompVERB	introduce	34
+,	PUNCTpunctNOUN	framework	34
+a	DETdetNOUN	framework	34
+flexible	ADJamodNOUN	framework	34
+interpret	VERBrev_objNOUN	framework	34
+34	ABOUT	framework	34
+for	SCONJmarkVERB	interpret	34
+interpret	VERBaclNOUN	framework	34
+nlp	NOUNcompoundNOUN	model	34
+nlp	NOUNinCOMPOUND	nlp model	34
+model	NOUNinCOMPOUND	nlp model	34
+34	ABOUT	nlp model	34
+interpret	VERBrev_objNOUN	model	34
+34	ABOUT	model	34
+.	PUNCTpunctVERB	introduce	34
+the	DETdetNOUN	toolkit	35
+provide	VERBrev_nsubjNOUN	toolkit	35
+35	ABOUT	toolkit	35
+provide	VERB_PREDICATE_OF	35	35
+interpretation	NOUNcompoundNOUN	primitive	35
+interpretation	NOUNinCOMPOUND	interpretation primitive	35
+primitive	NOUNinCOMPOUND	interpretation primitive	35
+35	ABOUT	interpretation primitive	35
+provide	VERBrev_objNOUN	primitive	35
+35	ABOUT	primitive	35
+(	PUNCTpunctNOUN	gradient	35
+e.g.	XadvmodNOUN	gradient	35
+,	PUNCTpunctNOUN	gradient	35
+input	NOUNcompoundNOUN	gradient	35
+input	NOUNinCOMPOUND	input gradient	35
+gradient	NOUNinCOMPOUND	input gradient	35
+35	ABOUT	input gradient	35
+gradient	NOUNapposNOUN	primitive	35
+)	PUNCTpunctNOUN	gradient	35
+for	ADPcaseNOUN	model	35
+any	DETdetNOUN	model	35
+Allen	PROPNcompoundNOUN	model	35
+Allen	PROPNinCOMPOUND	Allen model	35
+model	NOUNinCOMPOUND	Allen model	35
+35	ABOUT	Allen model	35
+nlp	NOUNcompoundNOUN	model	35
+nlp	NOUNinCOMPOUND	nlp model	35
+model	NOUNinCOMPOUND	nlp model	35
+35	ABOUT	nlp model	35
+model	NOUNnmodNOUN	primitive	35
+and	CCONJccNOUN	task	35
+task	NOUNconjNOUN	model	35
+,	PUNCTpunctNOUN	suite	35
+a	DETdetNOUN	suite	35
+suite	NOUNconjNOUN	primitive	35
+of	ADPcaseNOUN	method	35
+build	VERBamodNOUN	method	35
+-	PUNCTpunctVERB	build	35
+in	ADPcaseNOUN	interpretation	35
+interpretation	NOUNcompoundNOUN	method	35
+interpretation	NOUNinCOMPOUND	interpretation method	35
+method	NOUNinCOMPOUND	interpretation method	35
+35	ABOUT	interpretation method	35
+method	NOUNnmodNOUN	suite	35
+,	PUNCTpunctNOUN	library	35
+and	CCONJccNOUN	library	35
+a	DETdetNOUN	library	35
+library	NOUNconjNOUN	primitive	35
+of	ADPcaseNOUN	component	35
+front	ADJamodNOUN	end	35
+-	PUNCTpunctNOUN	end	35
+end	NOUNcompoundNOUN	component	35
+end	NOUNinCOMPOUND	end component	35
+component	NOUNinCOMPOUND	end component	35
+35	ABOUT	end component	35
+visualization	NOUNcompoundNOUN	component	35
+visualization	NOUNinCOMPOUND	visualization component	35
+component	NOUNinCOMPOUND	visualization component	35
+35	ABOUT	visualization component	35
+component	NOUNnmodNOUN	library	35
+.	PUNCTpunctVERB	provide	35
+the	DETdetNOUN	researcher	36
+demonstrate	VERBrev_nsubjNOUN	researcher	36
+36	ABOUT	researcher	36
+demonstrate	VERB_PREDICATE_OF	36	36
+the	DETdetNOUN	toolkit	36
+toolkit	NOUNnmod:possNOUN	flexibility	36
+'s	PARTcaseNOUN	toolkit	36
+demonstrate	VERBrev_objNOUN	flexibility	36
+36	ABOUT	flexibility	36
+and	CCONJccNOUN	utility	36
+utility	NOUNconjNOUN	flexibility	36
+by	SCONJmarkVERB	implement	36
+implement	VERBadvclVERB	demonstrate	36
+live	ADJamodNOUN	demo	36
+implement	VERBrev_objNOUN	demo	36
+36	ABOUT	demo	36
+for	ADPcaseNOUN	method	36
+five	NUMnummodNOUN	method	36
+interpretation	NOUNcompoundNOUN	method	36
+interpretation	NOUNinCOMPOUND	interpretation method	36
+method	NOUNinCOMPOUND	interpretation method	36
+36	ABOUT	interpretation method	36
+method	NOUNnmodNOUN	demo	36
+(	PUNCTpunctNOUN	map	36
+e.g.	XadvmodNOUN	map	36
+,	PUNCTpunctNOUN	map	36
+saliency	NOUNcompoundNOUN	map	36
+saliency	NOUNinCOMPOUND	saliency map	36
+map	NOUNinCOMPOUND	saliency map	36
+36	ABOUT	saliency map	36
+map	NOUNapposNOUN	method	36
+and	CCONJccNOUN	attack	36
+adversarial	ADJamodNOUN	attack	36
+attack	NOUNconjNOUN	map	36
+)	PUNCTpunctNOUN	map	36
+on	ADPcaseNOUN	variety	36
+a	DETdetNOUN	variety	36
+implement	VERBrev_oblNOUN	variety	36
+36	ABOUT	variety	36
+of	ADPcaseNOUN	model	36
+model	NOUNnmodNOUN	variety	36
+and	CCONJccNOUN	task	36
+task	NOUNconjNOUN	model	36
+(	PUNCTpunctNOUN	modeling	36
+e.g.	XadvmodNOUN	modeling	36
+,	PUNCTpunctNOUN	modeling	36
+mask	VERBamodNOUN	modeling	36
+language	NOUNcompoundNOUN	modeling	36
+language	NOUNinCOMPOUND	language modeling	36
+modeling	NOUNinCOMPOUND	language modeling	36
+36	ABOUT	language modeling	36
+modeling	NOUNapposNOUN	variety	36
+use	VERBaclNOUN	modeling	36
+BERT	PROPNobjVERB	use	36
+and	CCONJccNOUN	comprehension	36
+reading	NOUNconjPROPN	BERT	36
+comprehension	NOUNconjPROPN	BERT	36
+use	VERBadvclVERB	use	36
+BiDAF	PROPNobjVERB	use	36
+)	PUNCTpunctNOUN	modeling	36
+.	PUNCTpunctVERB	demonstrate	36
+these	DETdetNOUN	demo	37
+available	ADJrev_nsubjNOUN	demo	37
+37	ABOUT	demo	37
+,	PUNCTpunctNOUN	demo	37
+alongside	ADPcaseNOUN	code	37
+we	PRONnmod:possNOUN	code	37
+code	NOUNnmodNOUN	demo	37
+and	CCONJccNOUN	tutorial	37
+tutorial	NOUNconjNOUN	code	37
+,	PUNCTpunctADJ	available	37
+be	AUXcopADJ	available	37
+available	ADJ_PREDICATE_OF	37	37
+here	ADVadvmodADJ	available	37
+.	PUNCTpunctADJ	available	37
+towards	ADV_PREDICATE_OF	38	38
+explainable	ADJamodNOUN	nlp	39
+nlp	NOUN_PREDICATE_OF	39	39
+:	PUNCTpunctNOUN	nlp	39
+a	DETdetNOUN	Framework	39
+generative	ADJamodNOUN	Framework	39
+explanation	NOUNcompoundNOUN	Framework	39
+explanation	NOUNinCOMPOUND	explanation Framework	39
+Framework	NOUNinCOMPOUND	explanation Framework	39
+39	ABOUT	explanation Framework	39
+Framework	NOUNapposNOUN	nlp	39
+for	ADPcaseNOUN	classification	39
+text	NOUNcompoundNOUN	classification	39
+text	NOUNinCOMPOUND	text classification	39
+classification	NOUNinCOMPOUND	text classification	39
+39	ABOUT	text classification	39
+classification	NOUNnmodNOUN	Framework	39
+Building	VERBcsubjNOUN	problem	40
+explainable	ADJamodNOUN	system	40
+Building	VERBrev_objNOUN	system	40
+40	ABOUT	system	40
+be	AUXcopNOUN	problem	40
+a	DETdetNOUN	problem	40
+critical	ADJamodNOUN	problem	40
+problem	NOUN_PREDICATE_OF	40	40
+in	ADPcaseNOUN	field	40
+the	DETdetNOUN	field	40
+field	NOUNnmodNOUN	problem	40
+of	ADPcaseNOUN	processing	40
+Natural	PROPNcompoundNOUN	language	40
+Natural	PROPNinCOMPOUND	Natural language	40
+language	NOUNinCOMPOUND	Natural language	40
+40	ABOUT	Natural language	40
+language	NOUNcompoundNOUN	processing	40
+language	NOUNinCOMPOUND	language processing	40
+processing	NOUNinCOMPOUND	language processing	40
+40	ABOUT	language processing	40
+processing	NOUNnmodNOUN	field	40
+(	PUNCTpunctNOUN	nlp	40
+nlp	NOUNapposNOUN	processing	40
+)	PUNCTpunctNOUN	nlp	40
+,	PUNCTpunctNOUN	problem	40
+since	SCONJmarkVERB	provide	40
+most	ADJamodNOUN	model	40
+machine	NOUNcompoundNOUN	model	40
+machine	NOUNinCOMPOUND	machine model	40
+model	NOUNinCOMPOUND	machine model	40
+40	ABOUT	machine model	40
+learning	NOUNcompoundNOUN	model	40
+learning	NOUNinCOMPOUND	learning model	40
+model	NOUNinCOMPOUND	learning model	40
+40	ABOUT	learning model	40
+provide	VERBrev_nsubjNOUN	model	40
+40	ABOUT	model	40
+provide	VERBadvclNOUN	problem	40
+no	DETdetNOUN	explanation	40
+provide	VERBrev_objNOUN	explanation	40
+40	ABOUT	explanation	40
+for	ADPcaseNOUN	prediction	40
+the	DETdetNOUN	prediction	40
+prediction	NOUNnmodNOUN	explanation	40
+.	PUNCTpunctNOUN	problem	40
+exist	VERBamodNOUN	approach	41
+tend	VERBrev_nsubjNOUN	approach	41
+41	ABOUT	approach	41
+for	ADPcaseNOUN	system	41
+explainable	ADJamodNOUN	system	41
+machine	NOUNcompoundNOUN	system	41
+machine	NOUNinCOMPOUND	machine system	41
+system	NOUNinCOMPOUND	machine system	41
+41	ABOUT	machine system	41
+learning	NOUNcompoundNOUN	system	41
+learning	NOUNinCOMPOUND	learning system	41
+system	NOUNinCOMPOUND	learning system	41
+41	ABOUT	learning system	41
+system	NOUNnmodNOUN	approach	41
+tend	VERB_PREDICATE_OF	41	41
+to	PARTmarkVERB	focus	41
+focus	VERBxcompVERB	tend	41
+on	SCONJmarkVERB	interpret	41
+interpret	VERBadvclVERB	focus	41
+the	DETdetNOUN	output	41
+interpret	VERBrev_objNOUN	output	41
+41	ABOUT	output	41
+or	CCONJccNOUN	connection	41
+the	DETdetNOUN	connection	41
+connection	NOUNconjNOUN	output	41
+between	ADPcaseNOUN	input	41
+input	NOUNnmodNOUN	connection	41
+and	CCONJccNOUN	output	41
+output	NOUNconjNOUN	input	41
+.	PUNCTpunctVERB	tend	41
+however	ADVadvmodVERB	ignore	42
+,	PUNCTpunctVERB	ignore	42
+the	DETdetNOUN	information	42
+fine	ADJamodVERB	grain	42
+-	PUNCTpunctVERB	grain	42
+grain	VERBamodNOUN	information	42
+ignore	VERBrev_nsubj:passNOUN	information	42
+42	ABOUT	information	42
+be	AUXaux:passVERB	ignore	42
+often	ADVadvmodVERB	ignore	42
+ignore	VERB_PREDICATE_OF	42	42
+,	PUNCTpunctVERB	generate	42
+and	CCONJccVERB	generate	42
+the	DETdetNOUN	system	42
+generate	VERBrev_nsubjNOUN	system	42
+42	ABOUT	system	42
+do	AUXauxVERB	generate	42
+not	PARTadvmodVERB	generate	42
+explicitly	ADVadvmodVERB	generate	42
+generate	VERBconjVERB	ignore	42
+the	DETdetNOUN	explanation	42
+human	ADJamodADJ	readable	42
+-	PUNCTpunctADJ	readable	42
+readable	ADJamodNOUN	explanation	42
+generate	VERBrev_objNOUN	explanation	42
+42	ABOUT	explanation	42
+.	PUNCTpunctVERB	ignore	42
+to	PARTmarkVERB	alleviate	43
+better	ADVadvmodVERB	alleviate	43
+alleviate	VERBadvclVERB	propose	43
+this	DETdetNOUN	problem	43
+alleviate	VERBrev_objNOUN	problem	43
+43	ABOUT	problem	43
+,	PUNCTpunctVERB	propose	43
+the	DETdetNOUN	paper	43
+propose	VERBrev_nsubjNOUN	paper	43
+43	ABOUT	paper	43
+propose	VERB_PREDICATE_OF	43	43
+a	DETdetNOUN	framework	43
+generative	ADJrev_obl:npmodNOUN	novel	43
+43	ABOUT	novel	43
+generative	ADJamodNOUN	framework	43
+explanation	NOUNcompoundNOUN	framework	43
+explanation	NOUNinCOMPOUND	explanation framework	43
+framework	NOUNinCOMPOUND	explanation framework	43
+43	ABOUT	explanation framework	43
+propose	VERBrev_objNOUN	framework	43
+43	ABOUT	framework	43
+that	PRONnsubjVERB	learn	43
+learn	VERBacl:relclNOUN	framework	43
+to	PARTmarkVERB	make	43
+make	VERBxcompVERB	learn	43
+classification	NOUNcompoundNOUN	decision	43
+classification	NOUNinCOMPOUND	classification decision	43
+decision	NOUNinCOMPOUND	classification decision	43
+43	ABOUT	classification decision	43
+make	VERBrev_objNOUN	decision	43
+43	ABOUT	decision	43
+and	CCONJccVERB	generate	43
+generate	VERBconjVERB	make	43
+fine	ADJcompoundVERB	grain	43
+fine	ADJinCOMPOUND	fine grain	43
+grain	VERBinCOMPOUND	fine grain	43
+43	ABOUT	fine grain	43
+-	PUNCTpunctVERB	grain	43
+grain	VERBamodNOUN	explanation	43
+generate	VERBrev_objNOUN	explanation	43
+43	ABOUT	explanation	43
+at	ADPcaseNOUN	time	43
+the	DETdetNOUN	time	43
+same	ADJamodNOUN	time	43
+generate	VERBrev_oblNOUN	time	43
+43	ABOUT	time	43
+.	PUNCTpunctVERB	propose	43
+more	ADVadvmodADV	specifically	44
+specifically	ADVadvmodVERB	introduce	44
+,	PUNCTpunctVERB	introduce	44
+the	DETdetNOUN	researcher	44
+introduce	VERBrev_nsubjNOUN	researcher	44
+44	ABOUT	researcher	44
+introduce	VERB_PREDICATE_OF	44	44
+the	DETdetNOUN	factor	44
+explainable	ADJamodNOUN	factor	44
+introduce	VERBrev_objNOUN	factor	44
+44	ABOUT	factor	44
+and	CCONJccNOUN	approach	44
+the	DETdetNOUN	approach	44
+minimum	ADJamodNOUN	approach	44
+risk	NOUNcompoundNOUN	training	44
+risk	NOUNinCOMPOUND	risk training	44
+training	NOUNinCOMPOUND	risk training	44
+44	ABOUT	risk training	44
+training	NOUNcompoundNOUN	approach	44
+training	NOUNinCOMPOUND	training approach	44
+approach	NOUNinCOMPOUND	training approach	44
+44	ABOUT	training approach	44
+approach	NOUNconjNOUN	factor	44
+that	PRONnsubjVERB	learn	44
+learn	VERBacl:relclNOUN	approach	44
+to	PARTmarkVERB	generate	44
+generate	VERBxcompVERB	learn	44
+more	ADVadvmodADJ	reasonable	44
+reasonable	ADJamodNOUN	explanation	44
+generate	VERBrev_objNOUN	explanation	44
+44	ABOUT	explanation	44
+.	PUNCTpunctVERB	introduce	44
+two	NUMnummodNOUN	dataset	45
+new	ADJamodNOUN	dataset	45
+construct	VERBrev_nsubj:passNOUN	dataset	45
+45	ABOUT	dataset	45
+that	PRONnsubjVERB	contain	45
+contain	VERBacl:relclNOUN	dataset	45
+contain	VERBrev_objNOUN	summary	45
+45	ABOUT	summary	45
+be	AUXaux:passVERB	construct	45
+construct	VERB_PREDICATE_OF	45	45
+,	PUNCTpunctNOUN	score	45
+rating	NOUNcompoundNOUN	score	45
+rating	NOUNinCOMPOUND	rating score	45
+score	NOUNinCOMPOUND	rating score	45
+45	ABOUT	rating score	45
+score	NOUNconjVERB	construct	45
+,	PUNCTpunctNOUN	reason	45
+and	CCONJccNOUN	reason	45
+fine	ADJcompoundVERB	grain	45
+fine	ADJinCOMPOUND	fine grain	45
+grain	VERBinCOMPOUND	fine grain	45
+45	ABOUT	fine grain	45
+-	PUNCTpunctVERB	grain	45
+grain	VERBamodNOUN	reason	45
+reason	NOUNconjNOUN	dataset	45
+.	PUNCTpunctVERB	construct	45
+the	DETdetNOUN	researcher	46
+conduct	VERBrev_nsubjNOUN	researcher	46
+46	ABOUT	researcher	46
+conduct	VERB_PREDICATE_OF	46	46
+conduct	VERBrev_objNOUN	experiment	46
+46	ABOUT	experiment	46
+on	ADPcaseNOUN	dataset	46
+both	DETdetNOUN	dataset	46
+conduct	VERBrev_oblNOUN	dataset	46
+46	ABOUT	dataset	46
+,	PUNCTpunctVERB	conduct	46
+compare	VERBadvclVERB	conduct	46
+with	ADPcaseNOUN	system	46
+several	ADJamodNOUN	system	46
+strong	ADJamodNOUN	system	46
+neural	ADJamodNOUN	network	46
+network	NOUNcompoundNOUN	baseline	46
+network	NOUNinCOMPOUND	network baseline	46
+baseline	NOUNinCOMPOUND	network baseline	46
+46	ABOUT	network baseline	46
+baseline	NOUNcompoundNOUN	system	46
+baseline	NOUNinCOMPOUND	baseline system	46
+system	NOUNinCOMPOUND	baseline system	46
+46	ABOUT	baseline system	46
+compare	VERBrev_oblNOUN	system	46
+46	ABOUT	system	46
+.	PUNCTpunctVERB	conduct	46
+experimental	ADJamodNOUN	result	47
+show	VERBrev_nsubjNOUN	result	47
+47	ABOUT	result	47
+show	VERB_PREDICATE_OF	47	47
+that	SCONJmarkVERB	surpass	47
+the	DETdetNOUN	method	47
+surpass	VERBrev_nsubjNOUN	method	47
+47	ABOUT	method	47
+surpass	VERBccompVERB	show	47
+all	DETdetNOUN	baseline	47
+surpass	VERBrev_objNOUN	baseline	47
+47	ABOUT	baseline	47
+on	ADPcaseNOUN	dataset	47
+both	DETdetNOUN	dataset	47
+dataset	NOUNnmodNOUN	baseline	47
+,	PUNCTpunctADJ	able	47
+and	CCONJccADJ	able	47
+be	AUXcopADJ	able	47
+able	ADJconjVERB	surpass	47
+to	PARTmarkVERB	generate	47
+generate	VERBxcompADJ	able	47
+concise	ADJamodNOUN	explanation	47
+generate	VERBrev_objNOUN	explanation	47
+47	ABOUT	explanation	47
+at	ADPcaseNOUN	time	47
+the	DETdetNOUN	time	47
+same	ADJamodNOUN	time	47
+generate	VERBrev_oblNOUN	time	47
+47	ABOUT	time	47
+.	PUNCTpunctVERB	show	47
+energy	NOUNcompoundNOUN	consideration	48
+energy	NOUNinCOMPOUND	energy consideration	48
+consideration	NOUNinCOMPOUND	energy consideration	48
+48	ABOUT	energy consideration	48
+and	CCONJccNOUN	policy	48
+policy	NOUNconjNOUN	energy	48
+ushere	VERBrev_nsubjNOUN	consideration	48
+48	ABOUT	consideration	48
+for	ADPcaseNOUN	learning	48
+deep	ADJamodNOUN	learning	48
+learning	NOUNnmodNOUN	consideration	48
+in	ADPcaseNOUN	progress	48
+NLP	PROPNcompoundNOUN	progress	48
+NLP	PROPNinCOMPOUND	NLP progress	48
+progress	NOUNinCOMPOUND	NLP progress	48
+48	ABOUT	NLP progress	48
+recent	ADJamodNOUN	progress	48
+progress	NOUNnmodNOUN	learning	48
+in	ADPcaseNOUN	hardware	48
+hardware	NOUNnmodNOUN	progress	48
+and	CCONJccNOUN	methodology	48
+methodology	NOUNconjNOUN	hardware	48
+for	SCONJmarkVERB	ushere	48
+training	NOUNcompoundNOUN	network	48
+training	NOUNinCOMPOUND	training network	48
+network	NOUNinCOMPOUND	training network	48
+48	ABOUT	training network	48
+neural	ADJamodNOUN	network	48
+ushere	VERBrev_nsubjNOUN	network	48
+48	ABOUT	network	48
+have	AUXauxVERB	ushere	48
+ushere	VERB_PREDICATE_OF	48	48
+in	ADPcaseNOUN	generation	48
+a	DETdetNOUN	generation	48
+new	ADJamodNOUN	generation	48
+ushere	VERBrev_oblNOUN	generation	48
+48	ABOUT	generation	48
+of	ADPcaseNOUN	network	48
+large	ADJamodNOUN	network	48
+network	NOUNnmodNOUN	generation	48
+train	VERBaclNOUN	network	48
+on	ADPcaseNOUN	data	48
+abundant	ADJamodNOUN	data	48
+train	VERBrev_oblNOUN	data	48
+48	ABOUT	data	48
+.	PUNCTpunctVERB	ushere	48
+these	DETdetNOUN	model	49
+obtain	VERBrev_nsubjNOUN	model	49
+49	ABOUT	model	49
+have	AUXauxVERB	obtain	49
+obtain	VERB_PREDICATE_OF	49	49
+notable	ADJamodNOUN	gain	49
+obtain	VERBrev_objNOUN	gain	49
+49	ABOUT	gain	49
+in	ADPcaseNOUN	accuracy	49
+obtain	VERBrev_oblNOUN	accuracy	49
+49	ABOUT	accuracy	49
+across	ADPcaseNOUN	task	49
+many	ADJamodNOUN	task	49
+nlp	NOUNcompoundNOUN	task	49
+nlp	NOUNinCOMPOUND	nlp task	49
+task	NOUNinCOMPOUND	nlp task	49
+49	ABOUT	nlp task	49
+obtain	VERBrev_oblNOUN	task	49
+49	ABOUT	task	49
+.	PUNCTpunctVERB	obtain	49
+however	ADVadvmodVERB	depend	50
+,	PUNCTpunctVERB	depend	50
+these	DETdetNOUN	improvement	50
+accuracy	NOUNcompoundNOUN	improvement	50
+accuracy	NOUNinCOMPOUND	accuracy improvement	50
+improvement	NOUNinCOMPOUND	accuracy improvement	50
+50	ABOUT	accuracy improvement	50
+depend	VERBrev_nsubjNOUN	improvement	50
+50	ABOUT	improvement	50
+depend	VERB_PREDICATE_OF	50	50
+on	ADPcaseNOUN	availability	50
+the	DETdetNOUN	availability	50
+depend	VERBrev_oblNOUN	availability	50
+50	ABOUT	availability	50
+of	ADPcaseNOUN	resource	50
+exceptionally	ADVadvmodADJ	large	50
+large	ADJamodNOUN	resource	50
+computational	ADJamodNOUN	resource	50
+resource	NOUNnmodNOUN	availability	50
+that	PRONnsubjVERB	necessitate	50
+necessitate	VERBacl:relclNOUN	resource	50
+similarly	ADVadvmodADJ	substantial	50
+substantial	ADJamodNOUN	consumption	50
+energy	NOUNcompoundNOUN	consumption	50
+energy	NOUNinCOMPOUND	energy consumption	50
+consumption	NOUNinCOMPOUND	energy consumption	50
+50	ABOUT	energy consumption	50
+necessitate	VERBrev_objNOUN	consumption	50
+50	ABOUT	consumption	50
+.	PUNCTpunctVERB	depend	50
+as	ADPcaseNOUN	result	51
+a	DETdetNOUN	result	51
+costly	ADJrev_oblNOUN	result	51
+51	ABOUT	result	51
+these	DETdetNOUN	model	51
+costly	ADJrev_nsubjNOUN	model	51
+51	ABOUT	model	51
+be	AUXcopADJ	costly	51
+costly	ADJ_PREDICATE_OF	51	51
+to	PARTmarkVERB	train	51
+train	VERBxcompADJ	costly	51
+and	CCONJccVERB	develop	51
+develop	VERBconjVERB	train	51
+,	PUNCTpunctVERB	train	51
+both	CCONJcc:preconjADV	financially	51
+financially	ADVadvmodVERB	train	51
+,	PUNCTpunctNOUN	cost	51
+due	ADPcaseNOUN	cost	51
+to	ADPfixedADP	due	51
+the	DETdetNOUN	cost	51
+train	VERBrev_oblNOUN	cost	51
+51	ABOUT	cost	51
+of	ADPcaseNOUN	hardware	51
+hardware	NOUNnmodNOUN	cost	51
+and	CCONJccNOUN	electricity	51
+electricity	NOUNconjNOUN	hardware	51
+or	CCONJccNOUN	cloud	51
+cloud	NOUNcompoundNOUN	compute	51
+cloud	NOUNinCOMPOUND	cloud compute	51
+compute	NOUNinCOMPOUND	cloud compute	51
+51	ABOUT	cloud compute	51
+compute	NOUNcompoundNOUN	time	51
+compute	NOUNinCOMPOUND	compute time	51
+time	NOUNinCOMPOUND	compute time	51
+51	ABOUT	compute time	51
+time	NOUNconjNOUN	hardware	51
+,	PUNCTpunctADV	environmentally	51
+and	CCONJccADV	environmentally	51
+environmentally	ADVconjNOUN	cost	51
+,	PUNCTpunctNOUN	footprint	51
+due	ADPcaseNOUN	footprint	51
+to	ADPfixedADP	due	51
+the	DETdetNOUN	footprint	51
+carbon	NOUNcompoundNOUN	footprint	51
+carbon	NOUNinCOMPOUND	carbon footprint	51
+footprint	NOUNinCOMPOUND	carbon footprint	51
+51	ABOUT	carbon footprint	51
+footprint	NOUNnmodNOUN	cost	51
+require	VERBaclNOUN	footprint	51
+to	PARTmarkVERB	fuel	51
+fuel	VERBxcompVERB	require	51
+modern	ADJamodNOUN	hardware	51
+tensor	NOUNcompoundNOUN	processing	51
+tensor	NOUNinCOMPOUND	tensor processing	51
+processing	NOUNinCOMPOUND	tensor processing	51
+51	ABOUT	tensor processing	51
+processing	NOUNcompoundNOUN	hardware	51
+processing	NOUNinCOMPOUND	processing hardware	51
+hardware	NOUNinCOMPOUND	processing hardware	51
+51	ABOUT	processing hardware	51
+fuel	VERBrev_objNOUN	hardware	51
+51	ABOUT	hardware	51
+.	PUNCTpunctADJ	costly	51
+this	DETdetNOUN	paper	52
+bring	VERBrev_nsubjNOUN	paper	52
+52	ABOUT	paper	52
+bring	VERB_PREDICATE_OF	52	52
+this	DETdetNOUN	issue	52
+bring	VERBrev_objNOUN	issue	52
+52	ABOUT	issue	52
+to	ADPcaseNOUN	attention	52
+the	DETdetNOUN	attention	52
+bring	VERBrev_oblNOUN	attention	52
+52	ABOUT	attention	52
+of	ADPcaseNOUN	researcher	52
+nlp	NOUNcompoundNOUN	researcher	52
+nlp	NOUNinCOMPOUND	nlp researcher	52
+researcher	NOUNinCOMPOUND	nlp researcher	52
+52	ABOUT	nlp researcher	52
+researcher	NOUNnmodNOUN	attention	52
+by	SCONJmarkVERB	quantify	52
+quantify	VERBadvclVERB	bring	52
+the	DETdetNOUN	cost	52
+approximate	ADJamodNOUN	cost	52
+financial	ADJamodNOUN	cost	52
+and	CCONJccADJ	environmental	52
+environmental	ADJconjADJ	financial	52
+quantify	VERBrev_objNOUN	cost	52
+52	ABOUT	cost	52
+of	SCONJmarkVERB	train	52
+train	VERBaclNOUN	cost	52
+a	DETdetNOUN	variety	52
+train	VERBrev_objNOUN	variety	52
+52	ABOUT	variety	52
+of	ADPcaseNOUN	model	52
+recently	ADVadvmodADJ	successful	52
+successful	ADJamodNOUN	model	52
+neural	ADJamodNOUN	model	52
+network	NOUNcompoundNOUN	model	52
+network	NOUNinCOMPOUND	network model	52
+model	NOUNinCOMPOUND	network model	52
+52	ABOUT	network model	52
+model	NOUNnmodNOUN	variety	52
+for	ADPcaseNOUN	nlp	52
+nlp	NOUNnmodNOUN	model	52
+.	PUNCTpunctVERB	bring	52
+base	VERBcaseNOUN	finding	53
+on	ADPcaseNOUN	finding	53
+these	DETdetNOUN	finding	53
+propose	VERBrev_oblNOUN	finding	53
+53	ABOUT	finding	53
+,	PUNCTpunctVERB	propose	53
+the	DETdetNOUN	author	53
+propose	VERBrev_nsubjNOUN	author	53
+53	ABOUT	author	53
+propose	VERB_PREDICATE_OF	53	53
+actionable	ADJamodNOUN	recommendation	53
+propose	VERBrev_objNOUN	recommendation	53
+53	ABOUT	recommendation	53
+to	PARTmarkVERB	reduce	53
+reduce	VERBaclNOUN	recommendation	53
+reduce	VERBrev_objNOUN	cost	53
+53	ABOUT	cost	53
+and	CCONJccVERB	improve	53
+improve	VERBconjVERB	reduce	53
+improve	VERBrev_objNOUN	equity	53
+53	ABOUT	equity	53
+in	ADPcaseNOUN	research	53
+nlp	NOUNcompoundNOUN	research	53
+nlp	NOUNinCOMPOUND	nlp research	53
+research	NOUNinCOMPOUND	nlp research	53
+53	ABOUT	nlp research	53
+improve	VERBrev_oblNOUN	research	53
+53	ABOUT	research	53
+and	CCONJccNOUN	practice	53
+practice	NOUNconjNOUN	research	53
+.	PUNCTpunctVERB	propose	53
+recent	ADJamodNOUN	advance	54
+advance	NOUN_PREDICATE_OF	54	54
+in	ADPcaseNOUN	nlp	54
+conversational	ADJamodNOUN	nlp	54
+nlp	NOUNnmodNOUN	advance	54
+:	PUNCTpunctNOUN	advance	54
+towards	ADPcaseNOUN	standardization	55
+the	DETdetNOUN	standardization	55
+become	VERBrev_oblNOUN	standardization	55
+55	ABOUT	standardization	55
+of	ADPcaseNOUN	system	55
+chatbot	NOUNcompoundNOUN	building	55
+chatbot	NOUNinCOMPOUND	chatbot building	55
+building	NOUNinCOMPOUND	chatbot building	55
+55	ABOUT	chatbot building	55
+building	NOUNcompoundNOUN	dialogue	55
+building	NOUNinCOMPOUND	building dialogue	55
+dialogue	NOUNinCOMPOUND	building dialogue	55
+55	ABOUT	building dialogue	55
+dialogue	NOUNcompoundNOUN	system	55
+dialogue	NOUNinCOMPOUND	dialogue system	55
+system	NOUNinCOMPOUND	dialogue system	55
+55	ABOUT	dialogue system	55
+system	NOUNnmodNOUN	standardization	55
+have	AUXauxVERB	become	55
+become	VERB_PREDICATE_OF	55	55
+recently	ADVadvmodADJ	essential	55
+essential	ADJxcompVERB	become	55
+in	ADPcaseNOUN	life	55
+we	PRONnmod:possNOUN	life	55
+essential	ADJrev_oblNOUN	life	55
+55	ABOUT	life	55
+.	PUNCTpunctADJ	essential	55
+they	PRONnmod:possNOUN	use	56
+get	VERBrev_nsubjNOUN	use	56
+56	ABOUT	use	56
+be	AUXauxVERB	get	56
+get	VERB_PREDICATE_OF	56	56
+more	ADJobjVERB	get	56
+and	CCONJccNOUN	fluid	56
+more	ADVadvmodNOUN	fluid	56
+fluid	NOUNconjADJ	more	56
+and	CCONJccADJ	easy	56
+easy	ADJconjADJ	more	56
+throughout	ADPcaseNOUN	time	56
+the	DETdetNOUN	time	56
+easy	ADJrev_oblNOUN	time	56
+56	ABOUT	time	56
+.	PUNCTpunctVERB	get	56
+this	PRONnsubjVERB	boil	57
+boil	VERB_PREDICATE_OF	57	57
+down	ADPcompound:prtVERB	boil	57
+to	ADPcaseNOUN	improvement	57
+the	DETdetNOUN	improvement	57
+boil	VERBrev_oblNOUN	improvement	57
+57	ABOUT	improvement	57
+make	VERBaclNOUN	improvement	57
+in	ADPcaseNOUN	field	57
+nlp	NOUNcompoundNOUN	field	57
+nlp	NOUNinCOMPOUND	nlp field	57
+field	NOUNinCOMPOUND	nlp field	57
+57	ABOUT	nlp field	57
+and	CCONJccNOUN	ai	57
+ai	NOUNconjNOUN	nlp	57
+make	VERBrev_oblNOUN	field	57
+57	ABOUT	field	57
+.	PUNCTpunctVERB	boil	57
+this	DETdetNOUN	paper	58
+try	VERBrev_nsubjNOUN	paper	58
+58	ABOUT	paper	58
+try	VERB_PREDICATE_OF	58	58
+to	PARTmarkVERB	provide	58
+provide	VERBxcompVERB	try	58
+a	DETdetNOUN	overview	58
+provide	VERBrev_objNOUN	overview	58
+58	ABOUT	overview	58
+to	ADPcaseNOUN	state	58
+the	DETdetNOUN	state	58
+current	ADJamodNOUN	state	58
+state	NOUNnmodNOUN	overview	58
+of	ADPcaseNOUN	art	58
+the	DETdetNOUN	art	58
+art	NOUNnmodNOUN	state	58
+of	ADPcaseNOUN	system	58
+dialogue	NOUNcompoundNOUN	system	58
+dialogue	NOUNinCOMPOUND	dialogue system	58
+system	NOUNinCOMPOUND	dialogue system	58
+58	ABOUT	dialogue system	58
+system	NOUNnmodNOUN	art	58
+,	PUNCTpunctNOUN	category	58
+they	PRONnmod:possNOUN	category	58
+category	NOUNconjNOUN	state	58
+and	CCONJccNOUN	approach	58
+the	DETdetNOUN	approach	58
+different	ADJamodNOUN	approach	58
+approach	NOUNconjNOUN	category	58
+to	PARTmarkVERB	build	58
+build	VERBaclNOUN	approach	58
+they	PRONobjVERB	build	58
+.	PUNCTpunctVERB	try	58
+it	PRONnsubjVERB	end	59
+end	VERB_PREDICATE_OF	59	59
+up	ADPcompound:prtVERB	end	59
+with	ADPcaseNOUN	discussion	59
+a	DETdetNOUN	discussion	59
+end	VERBrev_oblNOUN	discussion	59
+59	ABOUT	discussion	59
+that	PRONnsubjVERB	compare	59
+compare	VERBacl:relclNOUN	discussion	59
+all	DETdet:predetNOUN	technique	59
+the	DETdetNOUN	technique	59
+compare	VERBrev_objNOUN	technique	59
+59	ABOUT	technique	59
+and	CCONJccVERB	analyze	59
+analyze	VERBconjVERB	compare	59
+the	DETdetNOUN	strength	59
+analyze	VERBrev_objNOUN	strength	59
+59	ABOUT	strength	59
+and	CCONJccNOUN	weakness	59
+weakness	NOUNconjNOUN	strength	59
+of	ADPcaseDET	each	59
+each	DETnmodNOUN	strength	59
+.	PUNCTpunctVERB	end	59
+finally	ADVadvmodVERB	present	60
+,	PUNCTpunctVERB	present	60
+the	DETdetNOUN	author	60
+present	VERBrev_nsubjNOUN	author	60
+60	ABOUT	author	60
+present	VERB_PREDICATE_OF	60	60
+a	DETdetNOUN	piece	60
+opinion	NOUNcompoundNOUN	piece	60
+opinion	NOUNinCOMPOUND	opinion piece	60
+piece	NOUNinCOMPOUND	opinion piece	60
+60	ABOUT	opinion piece	60
+present	VERBrev_objNOUN	piece	60
+60	ABOUT	piece	60
+suggest	VERBaclNOUN	piece	60
+to	PARTmarkVERB	orientate	60
+orientate	VERBxcompVERB	suggest	60
+the	DETdetNOUN	research	60
+orientate	VERBrev_objNOUN	research	60
+60	ABOUT	research	60
+towards	ADPcaseNOUN	standardization	60
+the	DETdetNOUN	standardization	60
+orientate	VERBrev_oblNOUN	standardization	60
+60	ABOUT	standardization	60
+of	ADPcaseNOUN	building	60
+dialogue	NOUNcompoundNOUN	system	60
+dialogue	NOUNinCOMPOUND	dialogue system	60
+system	NOUNinCOMPOUND	dialogue system	60
+60	ABOUT	dialogue system	60
+system	NOUNcompoundNOUN	building	60
+system	NOUNinCOMPOUND	system building	60
+building	NOUNinCOMPOUND	system building	60
+60	ABOUT	system building	60
+building	NOUNnmodNOUN	standardization	60
+.	PUNCTpunctVERB	present	60
+be	AUXcopNOUN	time	61
+it	PRONnsubjNOUN	time	61
+time	NOUN_PREDICATE_OF	61	61
+to	PARTmarkVERB	swish	61
+swish	VERBaclNOUN	time	61
+?	PUNCTpunctNOUN	time	61
+compare	VERBcsubjVERB	play	62
+deep	ADJamodVERB	learn	62
+learn	VERBamodNOUN	function	62
+activation	NOUNcompoundNOUN	function	62
+activation	NOUNinCOMPOUND	activation function	62
+function	NOUNinCOMPOUND	activation function	62
+62	ABOUT	activation function	62
+compare	VERBrev_objNOUN	function	62
+62	ABOUT	function	62
+across	ADPcaseNOUN	function	62
+nlp	NOUNcompoundNOUN	task	62
+nlp	NOUNinCOMPOUND	nlp task	62
+task	NOUNinCOMPOUND	nlp task	62
+62	ABOUT	nlp task	62
+task	NOUNcompoundNOUN	function	62
+task	NOUNinCOMPOUND	task function	62
+function	NOUNinCOMPOUND	task function	62
+62	ABOUT	task function	62
+activation	NOUNcompoundNOUN	function	62
+activation	NOUNinCOMPOUND	activation function	62
+function	NOUNinCOMPOUND	activation function	62
+62	ABOUT	activation function	62
+function	NOUNnmodNOUN	function	62
+play	VERB_PREDICATE_OF	62	62
+a	DETdetNOUN	role	62
+crucial	ADJamodNOUN	role	62
+play	VERBrev_objNOUN	role	62
+62	ABOUT	role	62
+in	ADPcaseNOUN	network	62
+neural	ADJamodNOUN	network	62
+network	NOUNnmodNOUN	role	62
+because	SCONJmarkNOUN	nonlinearity	62
+they	PRONnsubjNOUN	nonlinearity	62
+be	AUXcopNOUN	nonlinearity	62
+the	DETdetNOUN	nonlinearity	62
+nonlinearity	NOUNadvclVERB	play	62
+which	PRONnsubj:passVERB	attribute	62
+have	AUXauxVERB	attribute	62
+be	AUXaux:passVERB	attribute	62
+attribute	VERBacl:relclNOUN	nonlinearity	62
+to	ADPcaseNOUN	story	62
+the	DETdetNOUN	story	62
+success	NOUNcompoundNOUN	story	62
+success	NOUNinCOMPOUND	success story	62
+story	NOUNinCOMPOUND	success story	62
+62	ABOUT	success story	62
+attribute	VERBrev_oblNOUN	story	62
+62	ABOUT	story	62
+of	ADPcaseNOUN	learning	62
+deep	ADJamodNOUN	learning	62
+learning	NOUNnmodNOUN	story	62
+.	PUNCTpunctVERB	play	62
+one	NUMnsubjPROPN	ReLU	63
+of	ADPcaseNOUN	function	63
+the	DETdetNOUN	function	63
+currently	ADVadvmodADJ	popular	63
+most	ADVadvmodADJ	popular	63
+popular	ADJamodNOUN	function	63
+activation	NOUNcompoundNOUN	function	63
+activation	NOUNinCOMPOUND	activation function	63
+function	NOUNinCOMPOUND	activation function	63
+63	ABOUT	activation function	63
+function	NOUNnmodNUM	one	63
+be	AUXcopPROPN	ReLU	63
+ReLU	PROPN_PREDICATE_OF	63	63
+,	PUNCTpunctVERB	propose	63
+but	CCONJccVERB	propose	63
+several	ADJamodNOUN	competitor	63
+propose	VERBrev_nsubj:passNOUN	competitor	63
+63	ABOUT	competitor	63
+have	AUXauxVERB	propose	63
+recently	ADVadvmodVERB	propose	63
+be	AUXaux:passVERB	propose	63
+propose	VERBconjPROPN	ReLU	63
+or	CCONJccVERB	discover	63
+'	PUNCTpunctVERB	discover	63
+discover	VERBconjVERB	propose	63
+'	PUNCTpunctVERB	discover	63
+,	PUNCTpunctVERB	discover	63
+include	VERBcaseNOUN	function	63
+lrelu	NOUNcompoundNOUN	function	63
+lrelu	NOUNinCOMPOUND	lrelu function	63
+function	NOUNinCOMPOUND	lrelu function	63
+63	ABOUT	lrelu function	63
+discover	VERBrev_oblNOUN	function	63
+63	ABOUT	function	63
+and	CCONJccNOUN	swish	63
+swish	NOUNconjNOUN	function	63
+.	PUNCTpunctPROPN	ReLU	63
+while	SCONJmarkVERB	compare	64
+most	ADJamodNOUN	work	64
+compare	VERBrev_nsubjNOUN	work	64
+64	ABOUT	work	64
+compare	VERBadvclVERB	perform	64
+newly	ADVadvmodVERB	propose	64
+propose	VERBamodNOUN	function	64
+activation	NOUNcompoundNOUN	function	64
+activation	NOUNinCOMPOUND	activation function	64
+function	NOUNinCOMPOUND	activation function	64
+64	ABOUT	activation function	64
+compare	VERBrev_objNOUN	function	64
+64	ABOUT	function	64
+on	ADPcaseNOUN	task	64
+few	ADJamodNOUN	task	64
+task	NOUNnmodNOUN	function	64
+(	PUNCTpunctNOUN	classification	64
+usually	ADVadvmodNOUN	classification	64
+from	ADPcaseNOUN	classification	64
+image	NOUNcompoundNOUN	classification	64
+image	NOUNinCOMPOUND	image classification	64
+classification	NOUNinCOMPOUND	image classification	64
+64	ABOUT	image classification	64
+classification	NOUNnmodNOUN	task	64
+)	PUNCTpunctNOUN	classification	64
+and	CCONJccNOUN	competitor	64
+against	ADPcaseNOUN	competitor	64
+few	ADJamodNOUN	competitor	64
+competitor	NOUNconjNOUN	function	64
+(	PUNCTpunctPROPN	ReLU	64
+usually	ADVadvmodPROPN	ReLU	64
+ReLU	PROPNapposNOUN	competitor	64
+)	PUNCTpunctPROPN	ReLU	64
+,	PUNCTpunctVERB	perform	64
+this	DETdetNOUN	paper	64
+perform	VERBrev_nsubjNOUN	paper	64
+64	ABOUT	paper	64
+perform	VERB_PREDICATE_OF	64	64
+the	DETdetNOUN	comparison	64
+first	ADJamodNOUN	comparison	64
+large	ADJamodNOUN	scale	64
+-	PUNCTpunctNOUN	scale	64
+scale	NOUNcompoundNOUN	comparison	64
+scale	NOUNinCOMPOUND	scale comparison	64
+comparison	NOUNinCOMPOUND	scale comparison	64
+64	ABOUT	scale comparison	64
+perform	VERBrev_objNOUN	comparison	64
+64	ABOUT	comparison	64
+of	ADPcaseNOUN	function	64
+21	NUMnummodNOUN	function	64
+activation	NOUNcompoundNOUN	function	64
+activation	NOUNinCOMPOUND	activation function	64
+function	NOUNinCOMPOUND	activation function	64
+64	ABOUT	activation function	64
+function	NOUNnmodNOUN	comparison	64
+across	ADPcaseNOUN	task	64
+eight	NUMnummodNOUN	task	64
+different	ADJamodNOUN	task	64
+nlp	NOUNcompoundNOUN	task	64
+nlp	NOUNinCOMPOUND	nlp task	64
+task	NOUNinCOMPOUND	nlp task	64
+64	ABOUT	nlp task	64
+task	NOUNnmodNOUN	function	64
+.	PUNCTpunctVERB	perform	64
+the	DETdetNOUN	author	65
+find	VERBrev_nsubjNOUN	author	65
+65	ABOUT	author	65
+find	VERB_PREDICATE_OF	65	65
+that	SCONJmarkVERB	perform	65
+a	DETdetNOUN	function	65
+largely	ADVadvmodADJ	unknown	65
+unknown	ADJamodNOUN	function	65
+activation	NOUNcompoundNOUN	function	65
+activation	NOUNinCOMPOUND	activation function	65
+function	NOUNinCOMPOUND	activation function	65
+65	ABOUT	activation function	65
+perform	VERBrev_nsubjNOUN	function	65
+65	ABOUT	function	65
+perform	VERBccompVERB	find	65
+most	ADVadvmodADV	stably	65
+stably	ADVadvmodVERB	perform	65
+across	ADPcaseNOUN	task	65
+all	DETdetNOUN	task	65
+perform	VERBrev_oblNOUN	task	65
+65	ABOUT	task	65
+,	PUNCTpunctNOUN	task	65
+the	DETdetNOUN	function	65
+so	ADVadvmodVERB	call	65
+-	PUNCTpunctVERB	call	65
+call	VERBamodNOUN	function	65
+penalize	VERBamodNOUN	function	65
+tanh	NOUNcompoundNOUN	function	65
+tanh	NOUNinCOMPOUND	tanh function	65
+function	NOUNinCOMPOUND	tanh function	65
+65	ABOUT	tanh function	65
+function	NOUNapposNOUN	task	65
+.	PUNCTpunctVERB	find	65
+additionally	ADVadvmodVERB	replace	66
+,	PUNCTpunctVERB	replace	66
+it	PRONnsubjVERB	replace	66
+can	AUXauxVERB	replace	66
+successfully	ADVadvmodVERB	replace	66
+replace	VERB_PREDICATE_OF	66	66
+the	DETdetNOUN	gate	66
+sigmoid	NOUNcompoundNOUN	gate	66
+sigmoid	NOUNinCOMPOUND	sigmoid gate	66
+gate	NOUNinCOMPOUND	sigmoid gate	66
+66	ABOUT	sigmoid gate	66
+and	CCONJccNOUN	tanh	66
+tanh	NOUNconjNOUN	sigmoid	66
+replace	VERBrev_objNOUN	gate	66
+66	ABOUT	gate	66
+in	ADPcaseNOUN	cell	66
+lstm	NOUNcompoundNOUN	cell	66
+lstm	NOUNinCOMPOUND	lstm cell	66
+cell	NOUNinCOMPOUND	lstm cell	66
+66	ABOUT	lstm cell	66
+replace	VERBrev_oblNOUN	cell	66
+66	ABOUT	cell	66
+,	PUNCTpunctVERB	replace	66
+lead	VERBadvclVERB	replace	66
+to	ADPcaseNOUN	point	66
+a	DETdetNOUN	point	66
+2	NUMnummodNOUN	point	66
+percentage	NOUNcompoundNOUN	point	66
+percentage	NOUNinCOMPOUND	percentage point	66
+point	NOUNinCOMPOUND	percentage point	66
+66	ABOUT	percentage point	66
+lead	VERBrev_oblNOUN	point	66
+66	ABOUT	point	66
+(	PUNCTpunctNOUN	pp	66
+pp	NOUNapposNOUN	point	66
+)	PUNCTpunctNOUN	pp	66
+lead	VERBrev_objNOUN	improvement	66
+66	ABOUT	improvement	66
+over	ADPcaseNOUN	choice	66
+the	DETdetNOUN	choice	66
+standard	ADJamodNOUN	choice	66
+lead	VERBrev_oblNOUN	choice	66
+66	ABOUT	choice	66
+on	ADPcaseNOUN	task	66
+a	DETdetNOUN	task	66
+challenging	ADJamodNOUN	task	66
+nlp	NOUNcompoundNOUN	task	66
+nlp	NOUNinCOMPOUND	nlp task	66
+task	NOUNinCOMPOUND	nlp task	66
+66	ABOUT	nlp task	66
+task	NOUNnmodNOUN	choice	66
+.	PUNCTpunctVERB	replace	66
+a	DETdetNOUN	Strategy	67
+Just	PROPNcompoundNOUN	Strategy	67
+Just	PROPNinCOMPOUND	Just Strategy	67
+Strategy	NOUNinCOMPOUND	Just Strategy	67
+67	ABOUT	Just Strategy	67
+and	CCONJccADJ	comprehensive	67
+comprehensive	ADJconjPROPN	Just	67
+affect	VERBrev_nsubjNOUN	Strategy	67
+67	ABOUT	Strategy	67
+for	SCONJmarkVERB	use	67
+use	VERBaclNOUN	Strategy	67
+use	VERBrev_objNOUN	nlp	67
+67	ABOUT	nlp	67
+to	PARTmarkVERB	address	67
+address	VERBadvclVERB	use	67
+Online	ADJamodNOUN	abuse	67
+abuse	NOUNcompoundNOUN	behavior	67
+abuse	NOUNinCOMPOUND	abuse behavior	67
+behavior	NOUNinCOMPOUND	abuse behavior	67
+67	ABOUT	abuse behavior	67
+Online	ADJamodNOUN	behavior	67
+abusive	ADJamodNOUN	behavior	67
+address	VERBrev_objNOUN	behavior	67
+67	ABOUT	behavior	67
+affect	VERB_PREDICATE_OF	67	67
+affect	VERBrev_objNOUN	million	67
+67	ABOUT	million	67
+and	CCONJccVERB	attempt	67
+the	DETdetNOUN	community	67
+nlp	NOUNcompoundNOUN	community	67
+nlp	NOUNinCOMPOUND	nlp community	67
+community	NOUNinCOMPOUND	nlp community	67
+67	ABOUT	nlp community	67
+attempt	VERBrev_nsubjNOUN	community	67
+67	ABOUT	community	67
+have	AUXauxVERB	attempt	67
+attempt	VERBconjVERB	affect	67
+to	PARTmarkVERB	mitigate	67
+mitigate	VERBxcompVERB	attempt	67
+this	DETdetNOUN	problem	67
+mitigate	VERBrev_objNOUN	problem	67
+67	ABOUT	problem	67
+by	SCONJmarkVERB	develop	67
+develop	VERBadvclVERB	mitigate	67
+develop	VERBrev_objNOUN	technology	67
+67	ABOUT	technology	67
+to	PARTmarkVERB	detect	67
+detect	VERBxcompVERB	develop	67
+detect	VERBrev_objNOUN	abuse	67
+67	ABOUT	abuse	67
+.	PUNCTpunctVERB	affect	67
+however	ADVadvmodVERB	focus	68
+,	PUNCTpunctVERB	focus	68
+current	ADJamodNOUN	method	68
+focus	VERBrev_nsubjNOUN	method	68
+68	ABOUT	method	68
+have	AUXauxVERB	focus	68
+largely	ADVadvmodVERB	focus	68
+focus	VERB_PREDICATE_OF	68	68
+on	ADPcaseNOUN	definition	68
+a	DETdetNOUN	definition	68
+narrow	ADJamodNOUN	definition	68
+focus	VERBrev_oblNOUN	definition	68
+68	ABOUT	definition	68
+of	ADPcaseNOUN	abuse	68
+abuse	NOUNnmodNOUN	definition	68
+to	ADPcaseNOUN	detriment	68
+detriment	NOUNnmodNOUN	definition	68
+of	ADPcaseNOUN	victim	68
+victim	NOUNnmodNOUN	detriment	68
+who	PRONnsubjVERB	seek	68
+seek	VERBacl:relclNOUN	victim	68
+both	CCONJcc:preconjNOUN	validation	68
+seek	VERBrev_objNOUN	validation	68
+68	ABOUT	validation	68
+and	CCONJccNOUN	solution	68
+solution	NOUNconjNOUN	validation	68
+.	PUNCTpunctVERB	focus	68
+this	DETdetNOUN	paper	69
+position	NOUNcompoundNOUN	paper	69
+position	NOUNinCOMPOUND	position paper	69
+paper	NOUNinCOMPOUND	position paper	69
+69	ABOUT	position paper	69
+argue	VERBrev_nsubjNOUN	paper	69
+69	ABOUT	paper	69
+argue	VERB_PREDICATE_OF	69	69
+that	SCONJmarkVERB	need	69
+the	DETdetNOUN	community	69
+need	VERBrev_nsubjNOUN	community	69
+69	ABOUT	community	69
+need	VERBccompVERB	argue	69
+to	PARTmarkVERB	make	69
+make	VERBxcompVERB	need	69
+three	NUMnummodNOUN	change	69
+substantive	ADJamodNOUN	change	69
+make	VERBrev_objNOUN	change	69
+69	ABOUT	change	69
+:	PUNCTpunctNOUN	change	69
+(	PUNCTpunctX	1	69
+1	XnummodVERB	expand	69
+)	PUNCTpunctX	1	69
+expand	VERBadvclVERB	make	69
+we	PRONnmod:possNOUN	scope	69
+expand	VERBrev_objNOUN	scope	69
+69	ABOUT	scope	69
+of	ADPcaseNOUN	problem	69
+problem	NOUNnmodNOUN	scope	69
+to	PARTmarkVERB	tackle	69
+tackle	VERBaclNOUN	problem	69
+both	DETdetNOUN	form	69
+more	ADVadvmodADJ	subtle	69
+subtle	ADJamodNOUN	form	69
+and	CCONJccADJ	serious	69
+more	ADVadvmodADJ	serious	69
+serious	ADJconjADJ	subtle	69
+tackle	VERBrev_objNOUN	form	69
+69	ABOUT	form	69
+of	ADPcaseNOUN	abuse	69
+abuse	NOUNnmodNOUN	form	69
+,	PUNCTpunctVERB	develop	69
+(	PUNCTpunctX	2	69
+2	XnummodVERB	develop	69
+)	PUNCTpunctX	2	69
+develop	VERBadvclVERB	tackle	69
+proactive	ADJamodNOUN	technology	69
+develop	VERBrev_objNOUN	technology	69
+69	ABOUT	technology	69
+that	PRONnsubjVERB	counter	69
+counter	VERBacl:relclNOUN	technology	69
+or	CCONJccVERB	inhibit	69
+inhibit	VERBconjVERB	counter	69
+counter	VERBrev_objNOUN	abuse	69
+69	ABOUT	abuse	69
+before	SCONJmarkVERB	harm	69
+it	PRONnsubjVERB	harm	69
+harm	VERBadvclVERB	counter	69
+,	PUNCTpunctVERB	reframe	69
+and	CCONJccVERB	reframe	69
+(	PUNCTpunctX	3	69
+3	XnummodVERB	reframe	69
+)	PUNCTpunctX	3	69
+reframe	VERBconjVERB	harm	69
+we	PRONnmod:possNOUN	effort	69
+reframe	VERBrev_objNOUN	effort	69
+69	ABOUT	effort	69
+within	ADPcaseNOUN	framework	69
+a	DETdetNOUN	framework	69
+reframe	VERBrev_oblNOUN	framework	69
+69	ABOUT	framework	69
+of	ADPcaseNOUN	justice	69
+justice	NOUNnmodNOUN	framework	69
+to	PARTmarkVERB	promote	69
+promote	VERBaclNOUN	framework	69
+healthy	ADJamodNOUN	community	69
+promote	VERBrev_objNOUN	community	69
+69	ABOUT	community	69
+.	PUNCTpunctVERB	argue	69
+image	NOUN_PREDICATE_OF	70	70
+for	ADPcaseNOUN	post	70
+post	NOUNnmodNOUN	image	70
+[	PUNCTpunctNOUN	article	70
+related	ADJamodNOUN	article	70
+article	NOUNapposNOUN	image	70
+:	PUNCTpunctNOUN	article	70
+best	ADJamodNOUN	Research	70
+machine	NOUNcompoundNOUN	Research	70
+machine	NOUNinCOMPOUND	machine Research	70
+Research	NOUNinCOMPOUND	machine Research	70
+70	ABOUT	machine Research	70
+learning	NOUNcompoundNOUN	Research	70
+learning	NOUNinCOMPOUND	learning Research	70
+Research	NOUNinCOMPOUND	learning Research	70
+70	ABOUT	learning Research	70
+Research	NOUNapposNOUN	article	70
+of	ADPcaseNUM	2019	70
+2019	NUMnmodNOUN	Research	70
+]	PUNCTpunctNOUN	Research	70
+BERT	PROPNnsubjVERB	rediscover	71
+rediscover	VERB_PREDICATE_OF	71	71
+the	DETdetNOUN	pipeline	71
+Classical	PROPNcompoundNOUN	pipeline	71
+Classical	PROPNinCOMPOUND	Classical pipeline	71
+pipeline	NOUNinCOMPOUND	Classical pipeline	71
+71	ABOUT	Classical pipeline	71
+nlp	NOUNcompoundNOUN	pipeline	71
+nlp	NOUNinCOMPOUND	nlp pipeline	71
+pipeline	NOUNinCOMPOUND	nlp pipeline	71
+71	ABOUT	nlp pipeline	71
+rediscover	VERBrev_objNOUN	pipeline	71
+71	ABOUT	pipeline	71
+pre-train	VERBamodNOUN	encoder	72
+text	NOUNcompoundNOUN	encoder	72
+text	NOUNinCOMPOUND	text encoder	72
+encoder	NOUNinCOMPOUND	text encoder	72
+72	ABOUT	text encoder	72
+advanced	VERBrev_nsubjNOUN	encoder	72
+72	ABOUT	encoder	72
+have	AUXauxVERB	advanced	72
+rapidly	ADVadvmodVERB	advanced	72
+advanced	VERB_PREDICATE_OF	72	72
+the	DETdetNOUN	state	72
+advanced	VERBrev_objNOUN	state	72
+72	ABOUT	state	72
+of	ADPcaseNOUN	art	72
+the	DETdetNOUN	art	72
+art	NOUNnmodNOUN	state	72
+on	ADPcaseNOUN	task	72
+many	ADJamodNOUN	task	72
+nlp	NOUNcompoundNOUN	task	72
+nlp	NOUNinCOMPOUND	nlp task	72
+task	NOUNinCOMPOUND	nlp task	72
+72	ABOUT	nlp task	72
+advanced	VERBrev_oblNOUN	task	72
+72	ABOUT	task	72
+.	PUNCTpunctVERB	advanced	72
+this	DETdetNOUN	paper	73
+focus	VERBrev_nsubjNOUN	paper	73
+73	ABOUT	paper	73
+focus	VERB_PREDICATE_OF	73	73
+on	ADPcaseNOUN	model	73
+one	NUMnummodNOUN	model	73
+such	ADJamodNOUN	model	73
+focus	VERBrev_oblNOUN	model	73
+73	ABOUT	model	73
+,	PUNCTpunctNOUN	model	73
+BERT	PROPNapposNOUN	model	73
+,	PUNCTpunctVERB	aim	73
+and	CCONJccVERB	aim	73
+aim	VERBconjVERB	focus	73
+to	PARTmarkVERB	quantify	73
+quantify	VERBxcompVERB	aim	73
+where	ADVmarkVERB	capture	73
+linguistic	ADJamodNOUN	information	73
+capture	VERBrev_nsubj:passNOUN	information	73
+73	ABOUT	information	73
+be	AUXaux:passVERB	capture	73
+capture	VERBadvclVERB	quantify	73
+within	ADPcaseNOUN	network	73
+the	DETdetNOUN	network	73
+capture	VERBrev_oblNOUN	network	73
+73	ABOUT	network	73
+.	PUNCTpunctVERB	focus	73
+it	PRONnsubj:passVERB	find	74
+be	AUXaux:passVERB	find	74
+find	VERB_PREDICATE_OF	74	74
+that	SCONJmarkVERB	represent	74
+the	DETdetNOUN	model	74
+represent	VERBrev_nsubjNOUN	model	74
+74	ABOUT	model	74
+represent	VERBccompVERB	find	74
+the	DETdetNOUN	step	74
+represent	VERBrev_objNOUN	step	74
+74	ABOUT	step	74
+of	ADPcaseNOUN	pipeline	74
+the	DETdetNOUN	pipeline	74
+traditional	ADJamodNOUN	pipeline	74
+nlp	NOUNcompoundNOUN	pipeline	74
+nlp	NOUNinCOMPOUND	nlp pipeline	74
+pipeline	NOUNinCOMPOUND	nlp pipeline	74
+74	ABOUT	nlp pipeline	74
+pipeline	NOUNnmodNOUN	step	74
+in	ADPcaseNOUN	way	74
+a	DETdetNOUN	way	74
+interpretable	ADJamodNOUN	way	74
+and	CCONJccADJ	localizable	74
+localizable	ADJconjADJ	interpretable	74
+represent	VERBrev_oblNOUN	way	74
+74	ABOUT	way	74
+,	PUNCTpunctVERB	appear	74
+and	CCONJccVERB	appear	74
+that	SCONJmarkVERB	appear	74
+the	DETdetNOUN	region	74
+appear	VERBrev_nsubjNOUN	region	74
+74	ABOUT	region	74
+responsible	ADJamodNOUN	region	74
+for	ADPcaseNOUN	step	74
+each	DETdetNOUN	step	74
+responsible	ADJrev_oblNOUN	step	74
+74	ABOUT	step	74
+appear	VERBconjVERB	find	74
+in	ADPcaseNOUN	sequence	74
+the	DETdetNOUN	sequence	74
+expect	VERBamodNOUN	sequence	74
+appear	VERBrev_oblNOUN	sequence	74
+74	ABOUT	sequence	74
+:	PUNCTpunctVERB	find	74
+pos	NOUNcompoundNOUN	tagging	75
+pos	NOUNinCOMPOUND	pos tagging	75
+tagging	NOUNinCOMPOUND	pos tagging	75
+75	ABOUT	pos tagging	75
+tagging	NOUN_PREDICATE_OF	75	75
+,	PUNCTpunctNOUN	parsing	75
+parsing	NOUNconjNOUN	tagging	75
+,	PUNCTpunctNOUN	ner	75
+ner	NOUNconjNOUN	tagging	75
+,	PUNCTpunctNOUN	role	75
+semantic	ADJamodNOUN	role	75
+role	NOUNconjNOUN	tagging	75
+,	PUNCTpunctNOUN	tagging	75
+then	ADVadvmodNOUN	coreference	75
+coreference	NOUNconjNOUN	tagging	75
+.	PUNCTpunctNOUN	tagging	75
+qualitative	ADJamodNOUN	analysis	76
+reveal	VERBrev_nsubjNOUN	analysis	76
+76	ABOUT	analysis	76
+reveal	VERB_PREDICATE_OF	76	76
+that	SCONJmarkAUX	can	76
+the	DETdetNOUN	model	76
+can	AUXrev_nsubjNOUN	model	76
+76	ABOUT	model	76
+can	AUXccompVERB	reveal	76
+and	CCONJccVERB	adjust	76
+often	ADVadvmodVERB	adjust	76
+do	AUXauxVERB	adjust	76
+adjust	VERBconjVERB	reveal	76
+this	DETdetNOUN	pipeline	76
+adjust	VERBrev_objNOUN	pipeline	76
+76	ABOUT	pipeline	76
+dynamically	ADVadvmodVERB	adjust	76
+,	PUNCTpunctVERB	adjust	76
+revise	VERBadvclVERB	adjust	76
+lower	ADJamodNOUN	level	76
+-	PUNCTpunctNOUN	level	76
+level	NOUNcompoundNOUN	decision	76
+level	NOUNinCOMPOUND	level decision	76
+decision	NOUNinCOMPOUND	level decision	76
+76	ABOUT	level decision	76
+revise	VERBrev_objNOUN	decision	76
+76	ABOUT	decision	76
+on	ADPcaseNOUN	basis	76
+the	DETdetNOUN	basis	76
+revise	VERBrev_oblNOUN	basis	76
+76	ABOUT	basis	76
+of	SCONJmarkVERB	disambiguate	76
+disambiguate	VERBaclNOUN	basis	76
+disambiguate	VERBrev_objNOUN	information	76
+76	ABOUT	information	76
+from	ADPcaseNOUN	representation	76
+higher	ADJamodNOUN	level	76
+-	PUNCTpunctNOUN	level	76
+level	NOUNcompoundNOUN	representation	76
+level	NOUNinCOMPOUND	level representation	76
+representation	NOUNinCOMPOUND	level representation	76
+76	ABOUT	level representation	76
+disambiguate	VERBrev_oblNOUN	representation	76
+76	ABOUT	representation	76
+.	PUNCTpunctVERB	reveal	76

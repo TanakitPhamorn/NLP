@@ -1,0 +1,86 @@
+0	Natural language processing (NLP) is one of the most important technologies to arise in recent years.
+1	Specifically, 2019 has been a big year for NLP with the introduction of the revolutionary BERT language representation model.
+2	There are a large variety of underlying tasks and machine learning models powering NLP applications.
+3	Recently, deep learning approaches have obtained very high performance across many different NLP tasks.
+4	Convolutional Neural Network (CNNs) are typically associated with computer vision, but more recently CNNs have been applied to problems in NLP.
+5	In addition, there are many other models being applied to NLP including word vector representations, window-based neural networks, recurrent neural networks, long-short-term-memory models, recursive neural networks, and others.
+6	[Related Article: The Most Influential Deep Learning Research of 2019]
+7	In this article, I’ll help get you up speed with current NLP research efforts by curating a list of the best NLP research of 2019 on arXiv.org down to the manageable short-list of my favorites below.
+8	Enjoy!
+9	"BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+Google AI Language researchers introduce a new language representation model called BERT, which stands for Bidirectional Encoder Representations from Transformers."
+10	Unlike recent language representation models, BERT is designed to pre-train deep bidirectional representations from unlabeled text by jointly conditioning on both left and right context in all layers.
+11	As a result, the pre-trained BERT model can be fine-tuned with just one additional output layer to create state-of-the-art models for a wide range of tasks, such as question answering and language inference, without substantial task-specific architecture modifications.
+12	BERT is conceptually simple and empirically powerful.
+13	"The State of NLP Literature: A Diachronic Analysis of the ACL Anthology
+The ACL Anthology (AA) is a digital repository of tens of thousands of articles on Natural Language Processing (NLP)."
+14	This paper examines the literature as a whole to identify broad trends in productivity, focus, and impact.
+15	It presents the analyses in a sequence of questions and answers.
+16	The goal is to record the state of the AA literature: (i) who and how many of us are publishing?
+17	(ii) what are we publishing on?
+18	(iii) where and in what form are we publishing?
+19	and (iv) what is the impact of our publications?
+20	The answers are usually in the form of numbers, graphs, and inter-connected visualizations.
+21	Special emphasis is laid on the demographics and inclusiveness of NLP publishing.
+22	"ERASER: A Benchmark to Evaluate Rationalized NLP Models
+State-of-the-art models in NLP are now predominantly based on deep neural networks that are generally opaque in terms of how they come to specific predictions."
+23	This limitation has led to increased interest in designing more interpretable deep models for NLP that can reveal the `reasoning’ underlying model outputs.
+24	But work in this direction has been conducted on different datasets and tasks with correspondingly unique aims and metrics; this makes it difficult to track progress.
+25	This paper proposes the Evaluating Rationales And Simple English Reasoning (ERASER) benchmark to advance research on interpretable models in NLP.
+26	This benchmark comprises multiple datasets and tasks for which human annotations of “rationales” (supporting evidence) have been collected.
+27	The researchers propose several metrics that aim to capture how well the rationales provided by models align with human rationales, and also how faithful these rationales are (i.e., the degree to which provided rationales influenced the corresponding predictions).
+28	The hope is that releasing this benchmark facilitates progress on designing more interpretable NLP systems.
+29	The benchmark, code, and documentation are available HERE.
+30	AllenNLP
+31	"Interpret: A Framework for Explaining Predictions of NLP Models
+Neural NLP models are increasingly accurate but are imperfect and opaque — they break in counterintuitive ways and leave end users puzzled at their behavior."
+32	Model interpretation methods ameliorate this opacity by providing explanations for specific model predictions.
+33	Unfortunately, existing interpretation codebases make it difficult to apply these methods to new models and tasks, which hinders adoption for practitioners and burdens interpretability researchers.
+34	This paper introduces AllenNLP Interpret, a flexible framework for interpreting NLP models.
+35	The toolkit provides interpretation primitives (e.g., input gradients) for any AllenNLP model and task, a suite of built-in interpretation methods, and a library of front-end visualization components.
+36	The researchers demonstrate the toolkit’s flexibility and utility by implementing live demos for five interpretation methods (e.g., saliency maps and adversarial attacks) on a variety of models and tasks (e.g., masked language modeling using BERT and reading comprehension using BiDAF).
+37	These demos, alongside our code and tutorials, are available HERE.
+38	Towards
+39	Explainable NLP: A Generative Explanation Framework for Text Classification
+40	Building explainable systems is a critical problem in the field of Natural Language Processing (NLP), since most machine learning models provide no explanations for the predictions.
+41	Existing approaches for explainable machine learning systems tend to focus on interpreting the outputs or the connections between inputs and outputs.
+42	However, the fine-grained information is often ignored, and the systems do not explicitly generate the human-readable explanations.
+43	To better alleviate this problem, the paper proposes a novel generative explanation framework that learns to make classification decisions and generate fine-grained explanations at the same time.
+44	More specifically, the researchers introduce the explainable factor and the minimum risk training approach that learn to generate more reasonable explanations.
+45	Two new datasets that contain summaries are constructed, rating scores, and fine-grained reasons.
+46	The researchers conduct experiments on both datasets, comparing with several strong neural network baseline systems.
+47	Experimental results show that the method surpasses all baselines on both datasets, and is able to generate concise explanations at the same time.
+48	"Energy and Policy Considerations for Deep Learning in NLP
+Recent progress in hardware and methodology for training neural networks has ushered in a new generation of large networks trained on abundant data."
+49	These models have obtained notable gains in accuracy across many NLP tasks.
+50	However, these accuracy improvements depend on the availability of exceptionally large computational resources that necessitate similarly substantial energy consumption.
+51	As a result these models are costly to train and develop, both financially, due to the cost of hardware and electricity or cloud compute time, and environmentally, due to the carbon footprint required to fuel modern tensor processing hardware.
+52	This paper brings this issue to the attention of NLP researchers by quantifying the approximate financial and environmental costs of training a variety of recently successful neural network models for NLP.
+53	Based on these findings, the authors propose actionable recommendations to reduce costs and improve equity in NLP research and practice.
+54	Recent advances in conversational NLP :
+55	"Towards the standardization of Chatbot building
+Dialogue systems have become recently essential in our life."
+56	Their use is getting more and more fluid and easy throughout the time.
+57	This boils down to the improvements made in NLP and AI fields.
+58	This paper tries to provide an overview to the current state of the art of dialogue systems, their categories and the different approaches to build them.
+59	It ends up with a discussion that compares all the techniques and analyzes the strengths and weaknesses of each.
+60	Finally, the author presents an opinion piece suggesting to orientate the research towards the standardization of dialogue systems building.
+61	Is it Time to Swish?
+62	"Comparing Deep Learning Activation Functions Across NLP tasks
+Activation functions play a crucial role in neural networks because they are the nonlinearities which have been attributed to the success story of deep learning."
+63	One of the currently most popular activation functions is ReLU, but several competitors have recently been proposed or ‘discovered’, including LReLU functions and swish.
+64	While most works compare newly proposed activation functions on few tasks (usually from image classification) and against few competitors (usually ReLU), this paper performs the first large-scale comparison of 21 activation functions across eight different NLP tasks.
+65	The authors find that a largely unknown activation function performs most stably across all tasks, the so-called penalized tanh function.
+66	Additionally, it can successfully replace the sigmoid and tanh gates in LSTM cells, leading to a 2 percentage point (pp) improvement over the standard choices on a challenging NLP task.
+67	"A Just and Comprehensive Strategy for Using NLP to Address Online Abuse
+Online abusive behavior affects millions and the NLP community has attempted to mitigate this problem by developing technologies to detect abuse."
+68	However, current methods have largely focused on a narrow definition of abuse to detriment of victims who seek both validation and solutions.
+69	This position paper argues that the community needs to make three substantive changes: (1) expanding our scope of problems to tackle both more subtle and more serious forms of abuse, (2) developing proactive technologies that counter or inhibit abuse before it harms, and (3) reframing our effort within a framework of justice to promote healthy communities.
+70	"Image for post
+[Related Article: Best Machine Learning Research of 2019]"
+71	BERT Rediscovers the Classical NLP Pipeline
+72	Pre-trained text encoders have rapidly advanced the state of the art on many NLP tasks.
+73	This paper focuses on one such model, BERT, and aims to quantify where linguistic information is captured within the network.
+74	It’s found that the model represents the steps of the traditional NLP pipeline in an interpretable and localizable way, and that the regions responsible for each step appear in the expected sequence:
+75	POS tagging, parsing, NER, semantic roles, then coreference.
+76	Qualitative analysis reveals that the model can and often does adjust this pipeline dynamically, revising lower-level decisions on the basis of disambiguating information from higher-level representations.
